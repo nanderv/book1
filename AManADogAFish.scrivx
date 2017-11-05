@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="nander-pc" Modified="2017-11-05 21:33:47 +0100" ModID="6474BCA0-A116-4947-8D5C-3E4A76CCBCC0">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="nander-pc" Modified="2017-11-05 21:59:05 +0100" ModID="6D254F6D-4419-4AAB-856E-D8B62A694546">
     <Binder>
         <BinderItem ID="0" UUID="6A5B9C1E-49F4-4D4A-9878-728322BDFA2B" Created="2006-11-04 17:27:29 +0100" Modified="2017-11-05 19:18:31 +0100" Type="DraftFolder">
             <Title>Manuscript</Title>
@@ -13,7 +13,7 @@
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="46" UUID="FDEDF6E9-3124-454F-862C-0948978DE0AC" Created="2017-11-05 00:22:48 +0100" Modified="2017-11-05 21:07:19 +0100" Type="Text">
+                <BinderItem ID="46" UUID="FDEDF6E9-3124-454F-862C-0948978DE0AC" Created="2017-11-05 00:22:48 +0100" Modified="2017-11-05 21:59:05 +0100" Type="Text">
                     <Title>Ignorance is Bliss</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -26,7 +26,7 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="6" UUID="291A5EB7-DA53-44DB-92CD-35229AA003DB" Created="2006-11-04 17:33:03 +0100" Modified="2017-11-05 21:04:18 +0100" Type="Text">
+                <BinderItem ID="6" UUID="291A5EB7-DA53-44DB-92CD-35229AA003DB" Created="2006-11-04 17:33:03 +0100" Modified="2017-11-05 21:34:19 +0100" Type="Text">
                     <Title>The World of an Outsider</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
@@ -410,7 +410,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">50000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="831" Characters="4632" Date="2017-11-05 16:15:47 +0100"/>
+        <PreviousSession Words="1100" Characters="6129" Date="2017-11-05 16:15:47 +0100"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
