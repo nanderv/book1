@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="nander-pc" Modified="2017-11-04 21:07:51 +0100" ModID="4B116124-1BD7-4F46-8349-D350CAB48891">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="DESKTOP-3DJA3CD" Modified="2017-11-05 00:24:48 +0100" ModID="CD451DCC-DEB3-48EC-9CF6-B032BD585E6B">
     <Binder>
         <BinderItem ID="12" UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Created="2007-03-25 22:48:19 +0100" Modified="2017-11-03 18:08:21 +0100" Type="Text">
             <Title>Novel Format</Title>
@@ -9,6 +9,7 @@
                 <IconFileName>Information.png</IconFileName>
             </MetaData>
             <TextSettings>
+                <TextSelection>329,0</TextSelection>
                 <Target Type="Words">0</Target>
             </TextSettings>
             <CorkboardAndOutliner>
@@ -43,15 +44,25 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="6" UUID="291A5EB7-DA53-44DB-92CD-35229AA003DB" Created="2006-11-04 17:33:03 +0100" Modified="2017-11-04 21:07:49 +0100" Type="Text">
-                            <Title>Sce</Title>
+                        <BinderItem ID="46" UUID="FDEDF6E9-3124-454F-862C-0948978DE0AC" Created="2017-11-05 00:22:48 +0100" Modified="2017-11-05 00:22:58 +0100" Type="Text">
+                            <Title>Ignorance is Bliss</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="6" UUID="291A5EB7-DA53-44DB-92CD-35229AA003DB" Created="2006-11-04 17:33:03 +0100" Modified="2017-11-05 00:24:47 +0100" Type="Text">
+                            <Title>The World of an Outsider</Title>
                             <MetaData>
                                 <LabelID>4</LabelID>
                                 <StatusID>2</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>15167,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -64,8 +75,8 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem ID="17" UUID="399C0CCC-17AD-4B67-A427-02A039B2EC48" Created="2010-10-19 14:06:35 +0100" Modified="2017-11-03 17:33:29 +0100" Type="Folder">
-            <Title>Characters</Title>
+        <BinderItem ID="17" UUID="399C0CCC-17AD-4B67-A427-02A039B2EC48" Created="2010-10-19 14:06:35 +0100" Modified="2017-11-05 00:19:17 +0100" Type="Folder">
+            <Title>Story ideas</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
                 <IconFileName>Characters (Photo).png</IconFileName>
@@ -79,7 +90,7 @@
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="41" UUID="97A22ED7-6FD9-499A-ACB4-E02F9C61FAD5" Created="2017-11-01 06:53:17 +0100" Modified="2017-11-01 06:57:20 +0100" Type="Text">
+                <BinderItem ID="41" UUID="97A22ED7-6FD9-499A-ACB4-E02F9C61FAD5" Created="2017-11-01 06:53:17 +0100" Modified="2017-11-05 00:19:24 +0100" Type="Text">
                     <Title>Spoilers</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -115,22 +126,16 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="45" UUID="734D35BC-41C9-4C25-BAFB-A558970F47E4" Created="2017-11-05 00:19:00 +0100" Modified="2017-11-05 00:19:09 +0100" Type="Text">
+                    <Title>Start from a storyteller further into the future</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
             </Children>
-        </BinderItem>
-        <BinderItem ID="18" UUID="FFE23E67-34F2-4887-B83B-0EB393BF3CA5" Created="2010-10-19 14:06:37 +0100" Modified="2010-10-19 14:06:56 +0100" Type="Folder">
-            <Title>Places</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-                <IconFileName>Locations (Map).tif</IconFileName>
-            </MetaData>
-            <TextSettings>
-                <Target Type="Words">0</Target>
-            </TextSettings>
-            <CorkboardAndOutliner>
-                <CorkboardSettings>
-                    <FreeformMode>Yes</FreeformMode>
-                </CorkboardSettings>
-            </CorkboardAndOutliner>
         </BinderItem>
         <BinderItem ID="29" UUID="AC80BE2D-A6AE-4FC8-9E92-60573A7AAECC" Created="2011-07-20 18:15:20 +0100" Modified="2011-07-20 18:15:23 +0100" Type="Folder">
             <Title>Front Matter</Title>
@@ -288,6 +293,21 @@
                 </BinderItem>
             </Children>
         </BinderItem>
+        <BinderItem ID="18" UUID="FFE23E67-34F2-4887-B83B-0EB393BF3CA5" Created="2010-10-19 14:06:37 +0100" Modified="2010-10-19 14:06:56 +0100" Type="Folder">
+            <Title>Places</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Locations (Map).tif</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+        </BinderItem>
         <BinderItem ID="1" UUID="4E440BDC-B30D-4B89-8CC6-915C71244EA6" Created="2006-11-04 17:27:29 +0100" Modified="2006-11-04 17:27:29 +0100" Type="ResearchFolder">
             <Title>Research</Title>
             <MetaData>
@@ -313,8 +333,8 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem ID="9" UUID="B7062B18-2083-4146-9AEB-8A5286BD3DAB" Created="2014-04-25 11:49:45 +0100" Modified="2014-04-25 11:49:46 +0100" Type="PDF">
-                            <Title>Standard Manuscript</Title>
+                        <BinderItem ID="9" UUID="B7062B18-2083-4146-9AEB-8A5286BD3DAB" Created="2014-04-25 11:49:45 +0100" Modified="2017-11-04 22:35:08 +0100" Type="PDF">
+                            <Title>Timeline</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>pdf</FileExtension>
@@ -457,7 +477,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="1776" Characters="10035" Date="2017-11-04 14:38:42 +0100"/>
+        <PreviousSession Words="50" Characters="315" Date="2017-11-05 00:11:15 +0100"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
