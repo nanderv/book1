@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="nander-pc" Modified="2017-11-22 00:06:10 +0100" ModID="E8597466-DC54-4A6F-8792-108CED0F260F">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="nander-pc" Modified="2017-11-22 23:37:36 +0100" ModID="79E285E0-FBA7-4E3A-8D58-9D1FE408E3C4">
     <Binder>
         <BinderItem ID="0" UUID="6A5B9C1E-49F4-4D4A-9878-728322BDFA2B" Created="2006-11-04 17:27:29 +0100" Modified="2017-11-05 19:18:31 +0100" Type="DraftFolder">
             <Title>Manuscript</Title>
@@ -42,7 +42,7 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                 </BinderItem>
-                <BinderItem ID="46" UUID="FDEDF6E9-3124-454F-862C-0948978DE0AC" Created="2017-11-05 00:22:48 +0100" Modified="2017-11-22 00:06:09 +0100" Type="Text">
+                <BinderItem ID="46" UUID="FDEDF6E9-3124-454F-862C-0948978DE0AC" Created="2017-11-05 00:22:48 +0100" Modified="2017-11-22 17:35:01 +0100" Type="Text">
                     <Title>Ignorance is Bliss</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -51,28 +51,28 @@
                         <CompileAsIs>Yes</CompileAsIs>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>39091,0</TextSelection>
+                        <TextSelection Caret="1519">1515,4</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="47" UUID="0A73EA23-E96D-49F1-97E1-11DC92899137" Created="2017-11-06 23:38:32 +0100" Modified="2017-11-21 18:58:46 +0100" Type="Text">
+                <BinderItem ID="47" UUID="0A73EA23-E96D-49F1-97E1-11DC92899137" Created="2017-11-06 23:38:32 +0100" Modified="2017-11-22 17:35:38 +0100" Type="Text">
                     <Title>The Price of Freedom</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>rtf</FileExtension>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>41552,0</TextSelection>
+                        <TextSelection>41611,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="48" UUID="5DE83341-3735-4D14-9BD8-A7D0F659701A" Created="2017-11-08 16:58:17 +0100" Modified="2017-11-21 18:58:21 +0100" Type="Text">
+                <BinderItem ID="48" UUID="5DE83341-3735-4D14-9BD8-A7D0F659701A" Created="2017-11-08 16:58:17 +0100" Modified="2017-11-22 17:39:30 +0100" Type="Text">
                     <Title>Being Right</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>11193,0</TextSelection>
+                        <TextSelection>11430,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -86,24 +86,24 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="52" UUID="94ABCBE0-A123-4C5F-861D-D789D45E151D" Created="2017-11-15 23:18:19 +0100" Modified="2017-11-21 18:55:21 +0100" Type="Text">
+                <BinderItem ID="52" UUID="94ABCBE0-A123-4C5F-861D-D789D45E151D" Created="2017-11-15 23:18:19 +0100" Modified="2017-11-22 22:26:47 +0100" Type="Text">
                     <Title>Revenge is Sweet</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>rtf</FileExtension>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>20398,0</TextSelection>
+                        <TextSelection>20563,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="57" UUID="1417C1E5-30D0-4C0F-8F43-D86114F4E37D" Created="2017-11-19 11:39:16 +0100" Modified="2017-11-21 17:19:24 +0100" Type="Text">
+                <BinderItem ID="57" UUID="1417C1E5-30D0-4C0F-8F43-D86114F4E37D" Created="2017-11-19 11:39:16 +0100" Modified="2017-11-22 23:37:35 +0100" Type="Text">
                     <Title>Dreaming Light</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>10674,0</TextSelection>
+                        <TextSelection>23912,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -540,8 +540,8 @@
     <TemplateFolderUUID>0F62E5C2-41F2-41F7-B09A-AF381C34B686</TemplateFolderUUID>
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">50000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">1360</SessionTarget>
-        <PreviousSession Words="1674" Characters="9066" Date="2017-11-21 17:13:00 +0100"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">1660</SessionTarget>
+        <PreviousSession Words="3392" Characters="17900" Date="2017-11-22 16:17:58 +0100"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
