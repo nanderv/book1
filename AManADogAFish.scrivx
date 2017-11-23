@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="nander-pc" Modified="2017-11-22 23:37:36 +0100" ModID="79E285E0-FBA7-4E3A-8D58-9D1FE408E3C4">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="nander-pc" Modified="2017-11-23 19:31:51 +0100" ModID="3A53CBE2-AAEC-4227-8FAD-1F86CEE50037">
     <Binder>
         <BinderItem ID="0" UUID="6A5B9C1E-49F4-4D4A-9878-728322BDFA2B" Created="2006-11-04 17:27:29 +0100" Modified="2017-11-05 19:18:31 +0100" Type="DraftFolder">
             <Title>Manuscript</Title>
@@ -82,38 +82,38 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>20472,0</TextSelection>
+                        <TextSelection>20955,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="52" UUID="94ABCBE0-A123-4C5F-861D-D789D45E151D" Created="2017-11-15 23:18:19 +0100" Modified="2017-11-22 22:26:47 +0100" Type="Text">
+                <BinderItem ID="52" UUID="94ABCBE0-A123-4C5F-861D-D789D45E151D" Created="2017-11-15 23:18:19 +0100" Modified="2017-11-23 19:31:51 +0100" Type="Text">
                     <Title>Revenge is Sweet</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>rtf</FileExtension>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>20563,0</TextSelection>
+                        <TextSelection>23543,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="57" UUID="1417C1E5-30D0-4C0F-8F43-D86114F4E37D" Created="2017-11-19 11:39:16 +0100" Modified="2017-11-22 23:37:35 +0100" Type="Text">
+                <BinderItem ID="57" UUID="1417C1E5-30D0-4C0F-8F43-D86114F4E37D" Created="2017-11-19 11:39:16 +0100" Modified="2017-11-23 19:25:18 +0100" Type="Text">
                     <Title>Dreaming Light</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>23912,0</TextSelection>
+                        <TextSelection>24457,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="56" UUID="B8F06D12-7E7B-4FA3-8529-94DFA3779838" Created="2017-11-16 23:04:13 +0100" Modified="2017-11-21 17:19:51 +0100" Type="Text">
+                <BinderItem ID="56" UUID="B8F06D12-7E7B-4FA3-8529-94DFA3779838" Created="2017-11-16 23:04:13 +0100" Modified="2017-11-23 12:40:25 +0100" Type="Text">
                     <Title>The beginning of the End</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>2084,0</TextSelection>
+                        <TextSelection>1989,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -541,7 +541,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">50000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">1660</SessionTarget>
-        <PreviousSession Words="3392" Characters="17900" Date="2017-11-22 16:17:58 +0100"/>
+        <PreviousSession Words="916" Characters="4913" Date="2017-11-23 11:30:21 +0100"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
