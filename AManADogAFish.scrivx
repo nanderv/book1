@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="nander-pc" Modified="2017-11-24 20:27:08 +0100" ModID="1DD2ECE7-A467-455A-AD7B-CF93C189829F">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="nander-pc" Modified="2017-11-24 22:33:41 +0100" ModID="F4703F8E-0E33-43A3-8CEC-D742215F2E31">
     <Binder>
         <BinderItem ID="0" UUID="6A5B9C1E-49F4-4D4A-9878-728322BDFA2B" Created="2006-11-04 17:27:29 +0100" Modified="2017-11-05 19:18:31 +0100" Type="DraftFolder">
             <Title>Manuscript</Title>
@@ -89,25 +89,25 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="52" UUID="94ABCBE0-A123-4C5F-861D-D789D45E151D" Created="2017-11-15 23:18:19 +0100" Modified="2017-11-24 20:27:06 +0100" Type="Text">
+                <BinderItem ID="52" UUID="94ABCBE0-A123-4C5F-861D-D789D45E151D" Created="2017-11-15 23:18:19 +0100" Modified="2017-11-24 22:33:41 +0100" Type="Text">
                     <Title>Revenge is Sweet</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>rtf</FileExtension>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>33680,0</TextSelection>
+                        <TextSelection>35394,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="57" UUID="1417C1E5-30D0-4C0F-8F43-D86114F4E37D" Created="2017-11-19 11:39:16 +0100" Modified="2017-11-23 21:52:47 +0100" Type="Text">
+                <BinderItem ID="57" UUID="1417C1E5-30D0-4C0F-8F43-D86114F4E37D" Created="2017-11-19 11:39:16 +0100" Modified="2017-11-24 22:20:33 +0100" Type="Text">
                     <Title>Dreaming Light</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>rtf</FileExtension>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>24496,0</TextSelection>
+                        <TextSelection>29762,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -550,7 +550,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">50000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">1660</SessionTarget>
-        <PreviousSession Words="533" Characters="2936" Date="2017-11-24 09:30:30 +0100"/>
+        <PreviousSession Words="1730" Characters="9477" Date="2017-11-24 09:30:30 +0100"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
