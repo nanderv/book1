@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="nander-pc" Modified="2017-11-23 19:31:51 +0100" ModID="3A53CBE2-AAEC-4227-8FAD-1F86CEE50037">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="nander-pc" Modified="2017-11-24 20:27:08 +0100" ModID="1DD2ECE7-A467-455A-AD7B-CF93C189829F">
     <Binder>
         <BinderItem ID="0" UUID="6A5B9C1E-49F4-4D4A-9878-728322BDFA2B" Created="2006-11-04 17:27:29 +0100" Modified="2017-11-05 19:18:31 +0100" Type="DraftFolder">
             <Title>Manuscript</Title>
@@ -13,17 +13,18 @@
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="55" UUID="EC94AE00-867E-44F1-97D9-877D831B3FEA" Created="2017-11-16 22:28:20 +0100" Modified="2017-11-16 22:32:05 +0100" Type="Text">
+                <BinderItem ID="55" UUID="EC94AE00-867E-44F1-97D9-877D831B3FEA" Created="2017-11-16 22:28:20 +0100" Modified="2017-11-23 21:50:04 +0100" Type="Text">
                     <Title>An Introduction of Sorts</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>828,0</TextSelection>
+                        <TextSelection>0,12</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="6" UUID="291A5EB7-DA53-44DB-92CD-35229AA003DB" Created="2006-11-04 17:33:03 +0100" Modified="2017-11-14 22:45:28 +0100" Type="Text">
+                <BinderItem ID="6" UUID="291A5EB7-DA53-44DB-92CD-35229AA003DB" Created="2006-11-04 17:33:03 +0100" Modified="2017-11-23 21:50:18 +0100" Type="Text">
                     <Title>The World of an Outsider</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
@@ -33,7 +34,7 @@
                         <PageBreakBefore>Yes</PageBreakBefore>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>18599,0</TextSelection>
+                        <TextSelection>6,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
@@ -42,7 +43,7 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                 </BinderItem>
-                <BinderItem ID="46" UUID="FDEDF6E9-3124-454F-862C-0948978DE0AC" Created="2017-11-05 00:22:48 +0100" Modified="2017-11-22 17:35:01 +0100" Type="Text">
+                <BinderItem ID="46" UUID="FDEDF6E9-3124-454F-862C-0948978DE0AC" Created="2017-11-05 00:22:48 +0100" Modified="2017-11-23 21:50:13 +0100" Type="Text">
                     <Title>Ignorance is Bliss</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -51,69 +52,73 @@
                         <CompileAsIs>Yes</CompileAsIs>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection Caret="1519">1515,4</TextSelection>
+                        <TextSelection>0,8</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="47" UUID="0A73EA23-E96D-49F1-97E1-11DC92899137" Created="2017-11-06 23:38:32 +0100" Modified="2017-11-22 17:35:38 +0100" Type="Text">
+                <BinderItem ID="47" UUID="0A73EA23-E96D-49F1-97E1-11DC92899137" Created="2017-11-06 23:38:32 +0100" Modified="2017-11-23 21:50:41 +0100" Type="Text">
                     <Title>The Price of Freedom</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>rtf</FileExtension>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>41611,0</TextSelection>
+                        <TextSelection>481,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="48" UUID="5DE83341-3735-4D14-9BD8-A7D0F659701A" Created="2017-11-08 16:58:17 +0100" Modified="2017-11-22 17:39:30 +0100" Type="Text">
+                <BinderItem ID="48" UUID="5DE83341-3735-4D14-9BD8-A7D0F659701A" Created="2017-11-08 16:58:17 +0100" Modified="2017-11-23 21:51:06 +0100" Type="Text">
                     <Title>Being Right</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>11430,0</TextSelection>
+                        <TextSelection>286,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="51" UUID="CCC484D7-1CF8-46A3-9217-05BA21B79422" Created="2017-11-10 20:51:04 +0100" Modified="2017-11-21 18:57:23 +0100" Type="Text">
+                <BinderItem ID="51" UUID="CCC484D7-1CF8-46A3-9217-05BA21B79422" Created="2017-11-10 20:51:04 +0100" Modified="2017-11-23 21:51:17 +0100" Type="Text">
                     <Title>Shared Stories</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>20955,0</TextSelection>
+                        <TextSelection>110,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="52" UUID="94ABCBE0-A123-4C5F-861D-D789D45E151D" Created="2017-11-15 23:18:19 +0100" Modified="2017-11-23 19:31:51 +0100" Type="Text">
+                <BinderItem ID="52" UUID="94ABCBE0-A123-4C5F-861D-D789D45E151D" Created="2017-11-15 23:18:19 +0100" Modified="2017-11-24 20:27:06 +0100" Type="Text">
                     <Title>Revenge is Sweet</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>rtf</FileExtension>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>23543,0</TextSelection>
+                        <TextSelection>33680,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="57" UUID="1417C1E5-30D0-4C0F-8F43-D86114F4E37D" Created="2017-11-19 11:39:16 +0100" Modified="2017-11-23 19:25:18 +0100" Type="Text">
+                <BinderItem ID="57" UUID="1417C1E5-30D0-4C0F-8F43-D86114F4E37D" Created="2017-11-19 11:39:16 +0100" Modified="2017-11-23 21:52:47 +0100" Type="Text">
                     <Title>Dreaming Light</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>24457,0</TextSelection>
+                        <TextSelection>24496,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="56" UUID="B8F06D12-7E7B-4FA3-8529-94DFA3779838" Created="2017-11-16 23:04:13 +0100" Modified="2017-11-23 12:40:25 +0100" Type="Text">
+                <BinderItem ID="56" UUID="B8F06D12-7E7B-4FA3-8529-94DFA3779838" Created="2017-11-16 23:04:13 +0100" Modified="2017-11-23 21:52:09 +0100" Type="Text">
                     <Title>The beginning of the End</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1989,0</TextSelection>
+                        <TextSelection>7,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -126,24 +131,26 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="59" UUID="C094A311-D5B9-41CC-AC17-28D32E08991E" Created="2017-11-19 11:39:54 +0100" Modified="2017-11-21 17:19:53 +0100" Type="Text">
+                <BinderItem ID="59" UUID="C094A311-D5B9-41CC-AC17-28D32E08991E" Created="2017-11-19 11:39:54 +0100" Modified="2017-11-23 21:53:04 +0100" Type="Text">
                     <Title>Journey to the End of the World</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>74,0</TextSelection>
+                        <TextSelection>6,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="53" UUID="46D42C5B-F5C6-484F-864F-24CE71BF4B7B" Created="2017-11-16 14:06:18 +0100" Modified="2017-11-16 22:57:33 +0100" Type="Text">
+                <BinderItem ID="53" UUID="46D42C5B-F5C6-484F-864F-24CE71BF4B7B" Created="2017-11-16 14:06:18 +0100" Modified="2017-11-23 21:53:35 +0100" Type="Text">
                     <Title>Blub</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
                         <IconFileName>Notes (Blue Notepad).tiff</IconFileName>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1074,0</TextSelection>
+                        <TextSelection>8,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -308,12 +315,13 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="19" UUID="0D541BA4-BCC5-4D30-9166-9837A8B7FD5B" Created="2014-06-12 07:52:32 +0100" Modified="2017-11-05 19:38:31 +0100" Type="Text">
+                        <BinderItem ID="19" UUID="0D541BA4-BCC5-4D30-9166-9837A8B7FD5B" Created="2014-06-12 07:52:32 +0100" Modified="2017-11-23 21:56:44 +0100" Type="Text">
                             <Title>Copyright</Title>
                             <MetaData>
                                 <FileExtension>rtf</FileExtension>
                             </MetaData>
                             <TextSettings>
+                                <TextSelection>30,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -322,7 +330,7 @@
                                 </CorkboardSettings>
                             </CorkboardAndOutliner>
                         </BinderItem>
-                        <BinderItem ID="16" UUID="E2571F9B-549F-4787-9C23-911289FA706E" Created="2014-06-12 07:52:32 +0100" Modified="2014-06-12 07:52:33 +0100" Type="Text">
+                        <BinderItem ID="16" UUID="E2571F9B-549F-4787-9C23-911289FA706E" Created="2014-06-12 07:52:32 +0100" Modified="2017-11-23 21:55:00 +0100" Type="Text">
                             <Title>Dedication</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -331,6 +339,7 @@
                                 <CompileAsIs>Yes</CompileAsIs>
                             </MetaData>
                             <TextSettings>
+                                <TextSelection>59,0</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <CorkboardAndOutliner>
@@ -541,7 +550,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">50000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">1660</SessionTarget>
-        <PreviousSession Words="916" Characters="4913" Date="2017-11-23 11:30:21 +0100"/>
+        <PreviousSession Words="533" Characters="2936" Date="2017-11-24 09:30:30 +0100"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
