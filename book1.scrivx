@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.0.0" Device="twister" Modified="2017-11-26 00:08:51 +0000" ModID="3ECD2CD8-2F4F-4B05-ADCB-91078EAADDDF">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.0.0" Device="twister" Modified="2017-11-26 20:50:42 +0000" ModID="BF178C2B-E9BF-4C0A-A8B7-CDEA82B2DB6A">
     <Binder>
         <BinderItem ID="0" UUID="6A5B9C1E-49F4-4D4A-9878-728322BDFA2B" Created="2006-11-04 18:27:29 +0000" Modified="2017-11-05 20:18:31 +0000" Type="DraftFolder">
             <Title>Manuscript</Title>
@@ -116,7 +116,7 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="56" UUID="B8F06D12-7E7B-4FA3-8529-94DFA3779838" Created="2017-11-17 00:04:13 +0000" Modified="2017-11-26 00:07:04 +0000" Type="Text">
+                <BinderItem ID="56" UUID="B8F06D12-7E7B-4FA3-8529-94DFA3779838" Created="2017-11-17 00:04:13 +0000" Modified="2017-11-26 20:50:38 +0000" Type="Text">
                     <Title>The beginning of the End</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -124,7 +124,7 @@
                         <PageBreakBefore>Yes</PageBreakBefore>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>15395,15395</TextSelection>
+                        <TextSelection>11576,11576</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
