@@ -1,0 +1,3716 @@
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+  <publication>
+    <dc:identifier>urn:uuid:urn:uuid:44fac897-cd3c-471d-8bed-ede861ec88b5</dc:identifier>
+    <dc:title>A Man, his Dog, and an unrelated Fish</dc:title>
+    <dc:creator>Nander Voortman</dc:creator>
+    <dc:publisher></dc:publisher>
+  </publication>
+  <annotation>
+    <dc:identifier>urn:uuid:8c8658af-96ab-4209-adba-5079ca3846f6</dc:identifier>
+    <dc:date>2018-08-20T05:11:25Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/108/1/1:807)" end="OPS/body4.xhtml#point(/1/2/108/1/1:816)" progress="0">
+      <text>contents.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:11:40Z</dc:date>
+      <text>no s at the end</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:ab276a2f-9260-47c9-a7f8-697546a6b660</dc:identifier>
+    <dc:date>2018-08-20T06:30:56Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/150/1/1:54)" end="OPS/body4.xhtml#point(/1/2/150/1/1:63)" progress="0">
+      <text>drop off </text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:30:56Z</dc:date>
+      <text>Repetition. See next marked</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:4edb144b-1c86-405d-861f-116c993ac40e</dc:identifier>
+    <dc:date>2018-08-20T13:40:51Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/22/1/2:1233)" end="OPS/body5.xhtml#point(/1/2/22/1/2:1235)" progress="0">
+      <text>he</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T13:40:51Z</dc:date>
+      <text>She</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:f6eb027e-6d1e-4fdc-871d-0504d3a33bfe</dc:identifier>
+    <dc:date>2018-08-20T05:21:18Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/108/1/1:1923)" end="OPS/body4.xhtml#point(/1/2/108/1/1:1930)" progress="0">
+      <text>entered</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:21:18Z</dc:date>
+      <text>Repetition of 'enter'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:930d3c23-3782-4fb1-9d31-02ff023cb5e7</dc:identifier>
+    <dc:date>2018-08-20T15:32:03Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/24/1/4:1168)" end="OPS/body5.xhtml#point(/1/2/24/1/4:1175)" progress="0">
+      <text>Events,</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T15:32:03Z</dc:date>
+      <text>'~Event'?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:e42b52f2-8836-47f4-9bd9-d6b94f6be8db</dc:identifier>
+    <dc:date>2018-08-19T15:04:39Z</dc:date>
+    <target>
+      <fragment start="OPS/body3.xhtml#point(/1/2/140/1/1:299)" end="OPS/body3.xhtml#point(/1/2/140/1/1:303)" progress="0">
+      <text>that</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T15:04:39Z</dc:date>
+      <text>Add a second 'that'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:af5c1a83-5de5-46aa-80d0-eeb871410cbb</dc:identifier>
+    <dc:date>2018-08-20T06:53:45Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/156/1/1:1111)" end="OPS/body4.xhtml#point(/1/2/156/1/1:1162)" progress="0">
+      <text>because of the way the new world was held together.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:53:45Z</dc:date>
+      <text>Sounds implausible...?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:3cf83245-6202-452c-ace0-871d07066cd2</dc:identifier>
+    <dc:date>2018-08-20T15:33:59Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/24/1/6:143)" end="OPS/body5.xhtml#point(/1/2/24/1/6:173)" progress="0">
+      <text>with a lot of things destroyed</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T15:33:59Z</dc:date>
+      <text>Slang. 'lots of things were destroyed'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:391b4649-dab4-4c4c-8f50-5526bf9729c9</dc:identifier>
+    <dc:date>2018-08-20T16:30:33Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/24/3/1:1769)" end="OPS/body5.xhtml#point(/1/2/24/3/1:1818)" progress="0">
+      <text>This also killed all radio-based communications. </text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T16:30:33Z</dc:date>
+      <text>That would render most radio stations and receivers irreperable. Change to 'This killed most microchips and more advanced electronics' recommended.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:32512351-9586-42fd-a9d1-000e6fc18786</dc:identifier>
+    <dc:date>2018-08-20T06:33:47Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/150/1/1:377)" end="OPS/body4.xhtml#point(/1/2/150/1/1:382)" progress="0">
+      <text>quite</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:33:47Z</dc:date>
+      <text>You use 'quite' very often. Maybe replace some occuremces?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:6d63ad0a-4c45-4dd2-b0f8-f73b3403f99a</dc:identifier>
+    <dc:date>2018-08-20T05:47:32Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/130/1/1:74)" end="OPS/body4.xhtml#point(/1/2/130/1/1:101)" progress="0">
+      <text>out about their loved ones.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:47:32Z</dc:date>
+      <text>Shouldn't it be quite visible on their faces? Maybe add a sentence what their expressions hinted at.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:b0dea0d4-68dc-4092-a3a2-b528911cfaa6</dc:identifier>
+    <dc:date>2018-08-20T05:55:42Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/134/1/1:818)" end="OPS/body4.xhtml#point(/1/2/134/1/1:858)" progress="0">
+      <text> near the location of the to-be-capital,</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:55:42Z</dc:date>
+      <text>'all around the new capital'?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:c3c5b851-d940-4f79-af26-84b1d83f9152</dc:identifier>
+    <dc:date>2018-08-20T12:53:26Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/6/1/1:41)" end="OPS/body5.xhtml#point(/1/2/6/1/1:124)" progress="0">
+      <text>You might already have heard of me, but don’t believe all that you’ve been told</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T12:53:26Z</dc:date>
+      <text>I have not ben told. Is that correct?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:4366e069-20e3-4aec-b32f-277f1d92f509</dc:identifier>
+    <dc:date>2018-08-20T16:28:25Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/24/3/1:1407)" end="OPS/body5.xhtml#point(/1/2/24/3/1:1422)" progress="0">
+      <text>higher priority</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T16:28:25Z</dc:date>
+      <text>Repetition. Use 'X over Y' for variaty.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:ad48e50e-ed12-4536-afba-2cdab0fe3970</dc:identifier>
+    <dc:date>2018-08-20T05:12:45Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/108/1/1:846)" end="OPS/body4.xhtml#point(/1/2/108/1/1:867)" progress="0">
+      <text>where others were had</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:12:45Z</dc:date>
+      <text>'Some had '</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:57bcd6b9-97ff-4243-b804-fa3a7fc3b425</dc:identifier>
+    <dc:date>2018-08-20T16:26:14Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/24/3/1:1252)" end="OPS/body5.xhtml#point(/1/2/24/3/1:1268)" progress="0">
+      <text>how much it had.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T16:26:14Z</dc:date>
+      <text>'what else it had to offer'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:74e5637b-cfd8-4a53-8eea-417cbb0f010e</dc:identifier>
+    <dc:date>2018-08-20T05:50:36Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/134/1/1:235)" end="OPS/body4.xhtml#point(/1/2/134/1/1:262)" progress="0">
+      <text>near what used to be London</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:50:36Z</dc:date>
+      <text>Put commas around this subsentence</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:82634880-9393-4d9a-a1d8-d516ec000a37</dc:identifier>
+    <dc:date>2018-08-20T06:32:40Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/150/1/1:307)" end="OPS/body4.xhtml#point(/1/2/150/1/1:323)" progress="0">
+      <text>build a shelter.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:32:40Z</dc:date>
+      <text>Repetition.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:5180adea-7570-4b1b-a2a5-cefcc75d77c3</dc:identifier>
+    <dc:date>2018-08-20T13:19:19Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/22/1/2:1131)" end="OPS/body5.xhtml#point(/1/2/22/1/2:1142)" progress="0">
+      <text>helicopter,</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T13:19:19Z</dc:date>
+      <text>'helicopter arrived'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:b58b5afc-1b9b-4082-85b4-409d2c32c985</dc:identifier>
+    <dc:date>2018-08-19T18:26:35Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/86/1/1:254)" end="OPS/body4.xhtml#point(/1/2/86/1/1:316)" progress="0">
+      <text>Electricity networks and waterworks had been severely disrupte</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T18:26:35Z</dc:date>
+      <text>As far as I know, anything that doesn't have an emergency generator within its walls is likely without electricity and powerplants shut down on earthquakes, so the world should be without water and power now.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:49516345-303a-4ad2-b7ff-763b95ef3f83</dc:identifier>
+    <dc:date>2018-08-20T06:49:40Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/156/1/1:300)" end="OPS/body4.xhtml#point(/1/2/156/1/1:303)" progress="0">
+      <text>the</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:49:40Z</dc:date>
+      <text>'my'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:e331c6c8-b694-4394-8ec9-62824538ad93</dc:identifier>
+    <dc:date>2018-08-20T06:34:53Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/150/1/1:502)" end="OPS/body4.xhtml#point(/1/2/150/1/1:508)" progress="0">
+      <text>dreamt</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:34:53Z</dc:date>
+      <text>'had' ?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:8481d274-5161-4f06-84c4-d01f133e4097</dc:identifier>
+    <dc:date>2018-08-20T16:33:30Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/24/3/3:771)" end="OPS/body5.xhtml#point(/1/2/24/3/3:778)" progress="0">
+      <text>flight,</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T16:33:30Z</dc:date>
+      <text>Flieght?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:8c04675a-e543-4b87-88a2-45af30d27592</dc:identifier>
+    <dc:date>2018-08-20T05:09:48Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/108/1/1:538)" end="OPS/body4.xhtml#point(/1/2/108/1/1:563)" progress="0">
+      <text>stay behind at that point</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:09:48Z</dc:date>
+      <text>'to not go [with them]' ?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:080dc1b4-cb3d-448d-a4da-a309c30aa106</dc:identifier>
+    <dc:date>2018-08-19T14:40:11Z</dc:date>
+    <target>
+      <fragment start="OPS/body3.xhtml#point(/1/2/120/1/1:124)" end="OPS/body3.xhtml#point(/1/2/120/1/1:129)" progress="0">
+      <text>data.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T14:40:11Z</dc:date>
+      <text>Date</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:0f7f4215-ebb4-417e-b0c1-afee709f0a64</dc:identifier>
+    <dc:date>2018-08-20T07:30:14Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/162/1/6:2364)" end="OPS/body4.xhtml#point(/1/2/162/1/6:2367)" progress="0">
+      <text>and</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T07:30:14Z</dc:date>
+      <text>And is the wrong joiner for this situation, since there is timedifference.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:ea014cc7-98b5-433e-b974-1a43c321189d</dc:identifier>
+    <dc:date>2018-08-20T06:19:34Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/146/1/3:566)" end="OPS/body4.xhtml#point(/1/2/146/1/3:589)" progress="0">
+      <text>easy to co-operate with</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:19:34Z</dc:date>
+      <text>'cooperative' ?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:202b2874-3691-4cce-b782-58ce4728add9</dc:identifier>
+    <dc:date>2018-08-20T15:31:14Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/24/1/4:952)" end="OPS/body5.xhtml#point(/1/2/24/1/4:958)" progress="0">
+      <text>it’s</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T15:31:14Z</dc:date>
+      <text>'its'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:0fbf285c-d272-4d7b-a270-5030336de210</dc:identifier>
+    <dc:date>2018-08-20T06:21:45Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/146/1/3:768)" end="OPS/body4.xhtml#point(/1/2/146/1/3:782)" progress="0">
+      <text>quite unclear.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:22:17Z</dc:date>
+      <text>Not unclear as a whole, but to her. So instead say 'often unclear to me'?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:f872367d-922f-48eb-a658-1ff240553e46</dc:identifier>
+    <dc:date>2018-08-19T14:39:18Z</dc:date>
+    <target>
+      <fragment start="OPS/body3.xhtml#point(/1/2/114/1/1:122)" end="OPS/body3.xhtml#point(/1/2/114/1/1:130)" progress="0">
+      <text>on-line.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T14:39:18Z</dc:date>
+      <text>No -</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:675e56b6-06ad-4c13-a7d3-42ca3ae03871</dc:identifier>
+    <dc:date>2018-08-20T05:13:01Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/108/1/1:924)" end="OPS/body4.xhtml#point(/1/2/108/1/1:927)" progress="0">
+      <text>in </text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:13:01Z</dc:date>
+      <text>On?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:f9368a01-b11f-48aa-bb82-74a750b32f7d</dc:identifier>
+    <dc:date>2018-08-19T14:27:16Z</dc:date>
+    <target>
+      <fragment start="OPS/body3.xhtml#point(/1/2/68/1/1:390)" end="OPS/body3.xhtml#point(/1/2/68/1/1:397)" progress="0">
+      <text>béfore</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T14:27:16Z</dc:date>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:bea544d9-4091-40c1-919b-cda62738039b</dc:identifier>
+    <dc:date>2018-08-20T05:20:58Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/108/1/1:1935)" end="OPS/body4.xhtml#point(/1/2/108/1/1:1943)" progress="0">
+      <text>entrance</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:20:58Z</dc:date>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:fb8b0ee9-970b-4517-973c-d0b238076521</dc:identifier>
+    <dc:date>2018-08-19T17:59:49Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/52/1/1:108)" end="OPS/body4.xhtml#point(/1/2/52/1/1:114)" progress="0">
+      <text>world.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T17:59:59Z</dc:date>
+      <text>Repetition</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:3739c142-3006-4674-b9c7-c44032999746</dc:identifier>
+    <dc:date>2018-08-19T14:50:05Z</dc:date>
+    <target>
+      <fragment start="OPS/body3.xhtml#point(/1/2/132/1/1:132)" end="OPS/body3.xhtml#point(/1/2/132/1/1:138)" progress="0">
+      <text>object</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T14:50:05Z</dc:date>
+      <text>I think 'things' is better here.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:2df92d6e-6196-4904-94b9-10ec97cd260a</dc:identifier>
+    <dc:date>2018-08-20T12:57:55Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/8/3/2:54)" end="OPS/body5.xhtml#point(/1/2/8/3/2:57)" progress="0">
+      <text>in </text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T12:57:55Z</dc:date>
+      <text>Comma</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:ee6b1281-29b5-4c0d-9cc6-f2907b1479a9</dc:identifier>
+    <dc:date>2018-08-19T18:15:26Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/68/1/1:291)" end="OPS/body4.xhtml#point(/1/2/68/1/1:314)" progress="0">
+      <text>. I had gotten hungry, </text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T18:15:26Z</dc:date>
+      <text>Such a shock should leave him without hunger for a bit. Maybe focus on extinguishing the fire on the farm?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:e5bb6169-cfd0-47c2-b161-d965a46482e7</dc:identifier>
+    <dc:date>2018-08-20T10:27:40Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/170/3/1:248)" end="OPS/body4.xhtml#point(/1/2/172:0)" progress="0">
+      <text>not that bad.
+</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T10:27:40Z</dc:date>
+      <text>How is she so sure that they think that they are bad?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:8d628673-7e90-467d-9a70-a68b4b834dfd</dc:identifier>
+    <dc:date>2018-08-20T05:38:26Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/128/1/1:90)" end="OPS/body4.xhtml#point(/1/2/128/1/1:119)" progress="0">
+      <text>, I joined the others again. </text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:38:26Z</dc:date>
+      <text>Unsmooth. Can't think of fix</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:a47975e2-e0d9-4896-b579-15abdd2d9453</dc:identifier>
+    <dc:date>2018-08-20T06:09:20Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/140/1/1:1436)" end="OPS/body4.xhtml#point(/1/2/140/1/1:1463)" progress="0">
+      <text>didn’t totally feel good </text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:09:36Z</dc:date>
+      <text>Slang</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:63cd1add-6af7-4880-a149-0a12e36c93ad</dc:identifier>
+    <dc:date>2018-08-19T18:31:57Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/96/1/1:152)" end="OPS/body4.xhtml#point(/1/2/96/1/1:168)" progress="0">
+      <text>We messaged back</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T18:31:57Z</dc:date>
+      <text>How?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:1d9b8343-d8d4-43ff-8dcc-1173ac5e1396</dc:identifier>
+    <dc:date>2018-08-20T06:01:24Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/140/1/1:83)" end="OPS/body4.xhtml#point(/1/2/140/1/1:108)" progress="0">
+      <text>It’s name is a misnomer</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:01:24Z</dc:date>
+      <text>Is it, though? Sounds like a council to me, so far...</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:274bf243-50ff-4172-a5fe-be3b7bbf48e1</dc:identifier>
+    <dc:date>2018-08-20T13:48:00Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/22/5/1:307)" end="OPS/body5.xhtml#point(/1/2/22/5/1:310)" progress="0">
+      <text>and</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T13:48:00Z</dc:date>
+      <text>Eithr you drop the comma or replce the and with an or</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:e13e4159-2392-42f9-8536-208a710a17a8</dc:identifier>
+    <dc:date>2018-08-20T16:00:20Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/24/1/14:73)" end="OPS/body5.xhtml#point(/1/2/24/1/14:78)" progress="0">
+      <text>left.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T16:00:20Z</dc:date>
+      <text>'left our group'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:661f19d9-3329-44fb-91e2-e50936f1ebbb</dc:identifier>
+    <dc:date>2018-08-20T06:57:05Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/158/1/2:578)" end="OPS/body4.xhtml#point(/1/2/158/1/2:676)" progress="0">
+      <text> I believed it at it’s words, because I didn’t really see a reason for it to lie at this point</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:57:05Z</dc:date>
+      <text>Clunky. Dutch expression translated directly?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:d8d55dd2-0712-4a9b-88b0-964c6e9689c5</dc:identifier>
+    <dc:date>2018-08-20T07:57:55Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/164/1:2)" end="OPS/body4.xhtml#point(/1/2/166/1/1:100)" progress="0">
+      <text>
+ I remember reading of it on the news. Terrorists had attacked a school, killing dozens of children. </text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T08:03:42Z</dc:date>
+      <text>Tht is quite a sudden change, seems like this should be more than just a paragraph to distance it from th previous tale. Maybe a chapter here?
+
+Also, maybe you should add descriptions about parts of the world being rebuilt. If you don't make rhe connections, then you could still think that the world is in ruins and there suddenly appears a functioning school.
+Since this is her recount of the events, you could just add little articles she writes, like 'Today we finally got the first powerplant online again' or 'We finally got enough enough teachers to repoen the school'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:ac3f73ba-00e2-4046-9970-b0c2f436a79c</dc:identifier>
+    <dc:date>2018-08-20T16:27:47Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/24/3/1:1353)" end="OPS/body5.xhtml#point(/1/2/24/3/1:1403)" progress="0">
+      <text>Most chairs seemed to be designed with photographs</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T16:27:47Z</dc:date>
+      <text>Reword this sentence. It is bumpy to read.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:85446b30-8434-4853-bb1d-38fc41686c38</dc:identifier>
+    <dc:date>2018-08-20T10:14:53Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/8/1/2:126)" end="OPS/body5.xhtml#point(/1/2/8/1/2:129)" progress="0">
+      <text>GP.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T10:14:53Z</dc:date>
+      <text>Not a common abbreviation outside th netherlands.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:9b0e50e6-003f-499a-8545-1019dbfee0c7</dc:identifier>
+    <dc:date>2018-08-20T05:36:03Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/126/1/1:204)" end="OPS/body4.xhtml#point(/1/2/126/1/1:220)" progress="0">
+      <text>at the same time</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:36:03Z</dc:date>
+      <text>Move to end of sentence</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:d551843f-b355-4bac-8dae-aad9d13ada3e</dc:identifier>
+    <dc:date>2018-08-20T05:20:42Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/108/1/1:1858)" end="OPS/body4.xhtml#point(/1/2/108/1/1:1869)" progress="0">
+      <text>the Capital</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:20:42Z</dc:date>
+      <text>Add quotes to clarify if 'the' belongs to the name</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:d94a0088-1241-4593-b65a-852cd656dc82</dc:identifier>
+    <dc:date>2018-08-19T15:21:46Z</dc:date>
+    <target>
+      <fragment start="OPS/body3.xhtml#point(/1/2/226/1/1:151)" end="OPS/body3.xhtml#point(/1/2/226/1/1:165)" progress="0">
+      <text>these worries.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T15:21:46Z</dc:date>
+      <text>Replace with that, to eliminate repetition</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:081498a6-8561-433e-a81f-f0fca4da9dc6</dc:identifier>
+    <dc:date>2018-08-20T05:45:30Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/128/1/1:1090)" end="OPS/body4.xhtml#point(/1/2/128/1/1:1164)" progress="0">
+      <text>After a while they came back, and told me they hadn’t yet found him, but</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:45:30Z</dc:date>
+      <text>Too many sentences joined by commas and 'and's</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:d9b29389-1c5d-4d8e-a46c-c3a45cbd7358</dc:identifier>
+    <dc:date>2018-08-20T13:41:11Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/22/1/2:992)" end="OPS/body5.xhtml#point(/1/2/22/1/2:994)" progress="0">
+      <text>He</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T13:41:11Z</dc:date>
+      <text>She</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:3e3524fe-38bd-497c-8d64-ae92f8f61cba</dc:identifier>
+    <dc:date>2018-08-20T13:18:21Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/22/1/2:924)" end="OPS/body5.xhtml#point(/1/2/22/1/2:938)" progress="0">
+      <text>other similar </text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T13:18:21Z</dc:date>
+      <text>Chose between one of these words. I'd use similar.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:05b826f8-1e45-4185-8883-460993e7311e</dc:identifier>
+    <dc:date>2018-08-20T07:05:15Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/162/1/4:496)" end="OPS/body4.xhtml#point(/1/2/162/1/4:585)" progress="0">
+      <text>He said that I went too far by writing this, and asked where I even got that information.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T07:05:15Z</dc:date>
+      <text>Things are going ab it too fast here...?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:ef79103f-0514-4a26-8f38-5fee88af6cb4</dc:identifier>
+    <dc:date>2018-08-20T06:31:10Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/150/1/1:232)" end="OPS/body4.xhtml#point(/1/2/150/1/1:243)" progress="0">
+      <text>dropped off</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:31:10Z</dc:date>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:5f0c35c6-c3d8-4419-9e01-91a6d56e7061</dc:identifier>
+    <dc:date>2018-08-19T18:10:12Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/66/1/1:224)" end="OPS/body4.xhtml#point(/1/2/66/1/1:256)" progress="0">
+      <text>Or also, if someone fell into it</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T18:10:12Z</dc:date>
+      <text>Wording. Combine with previous sentence</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:98620fa3-fff4-447c-b6e9-73f6d2a7de8c</dc:identifier>
+    <dc:date>2018-08-20T06:08:29Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/140/1/1:1228)" end="OPS/body4.xhtml#point(/1/2/140/1/1:1230)" progress="0">
+      <text>is</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:08:29Z</dc:date>
+      <text>Wrong timefrm</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:e378e984-41dd-4567-b6e9-605d8d3f2e18</dc:identifier>
+    <dc:date>2018-08-19T14:16:11Z</dc:date>
+    <target>
+      <fragment start="OPS/body3.xhtml#point(/1/2/30/1/1:220)" end="OPS/body3.xhtml#point(/1/2/30/1/1:228)" progress="0">
+      <text>person, </text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T14:16:11Z</dc:date>
+      <text>;</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:940beadf-ee29-43ca-96b3-7af476fd6146</dc:identifier>
+    <dc:date>2018-08-20T05:25:10Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/116/1/1:10)" end="OPS/body4.xhtml#point(/1/2/116/1/1:13)" progress="0">
+      <text>one</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:25:10Z</dc:date>
+      <text>Replace with 'Person'?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:d156e990-7379-4f16-b1f9-a5029c352afa</dc:identifier>
+    <dc:date>2018-08-20T07:29:16Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/162/1/6:2294)" end="OPS/body4.xhtml#point(/1/2/162/1/6:2330)" progress="0">
+      <text>, it somehow always find nice there.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T07:29:16Z</dc:date>
+      <text>'I find it nice here' or what does this mean?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:b3d60b85-3469-494c-b575-a9896f125644</dc:identifier>
+    <dc:date>2018-08-20T05:41:38Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/128/1/1:286)" end="OPS/body4.xhtml#point(/1/2/128/1/1:321)" progress="0">
+      <text>This might sound like an odd choice</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:41:38Z</dc:date>
+      <text>Does not sound odd at all. Disconnect?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:303e6a14-d334-4a73-beb6-5f85ddb0d224</dc:identifier>
+    <dc:date>2018-08-19T18:05:09Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/54/1/2:220)" end="OPS/body4.xhtml#point(/1/2/54/1/2:224)" progress="0">
+      <text>wás</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T18:05:09Z</dc:date>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:2f8e6a08-00e5-414b-9dad-e5f6b4b31c4e</dc:identifier>
+    <dc:date>2018-08-20T06:37:29Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/150/1/1:1554)" end="OPS/body4.xhtml#point(/1/2/150/1/1:1567)" progress="0">
+      <text>communicating</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:37:29Z</dc:date>
+      <text>'communication'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:6a7ca20e-f428-4018-9fa3-67a8e9b08e69</dc:identifier>
+    <dc:date>2018-08-20T17:15:46Z</dc:date>
+    <target>
+      <fragment start="OPS/body6.xhtml#point(/1/2/2/2/10:1185)" end="OPS/body6.xhtml#point(/1/2/2/2/10:1187)" progress="0">
+      <text>We</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T17:15:46Z</dc:date>
+      <text>Insert pause for dramatic effect</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:58b35d8c-4ae1-4e1d-8fbf-85d5f827e1b3</dc:identifier>
+    <dc:date>2018-08-19T17:37:04Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/10/1/1:30)" end="OPS/body4.xhtml#point(/1/2/10/1/1:37)" progress="0">
+      <text>boring.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T17:37:04Z</dc:date>
+      <text>I'd call it 'comparatively boring'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:47faa53c-f5fb-40f5-ae69-13f3a440d056</dc:identifier>
+    <dc:date>2018-08-20T06:38:08Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/150/1/1:1568)" end="OPS/body4.xhtml#point(/1/2/150/1/1:1578)" progress="0">
+      <text>until then</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:38:08Z</dc:date>
+      <text>Unnecesary. Obvious from context</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:306816ec-a010-4308-9b62-4c912f618ea9</dc:identifier>
+    <dc:date>2018-08-19T17:48:38Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/28/1/1:2)" end="OPS/body4.xhtml#point(/1/2/28/1/1:9)" progress="0">
+      <text>cuddled</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T17:48:38Z</dc:date>
+      <text>Was cuddling</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:8bab762f-2de7-476b-9b10-2b95c2677dbc</dc:identifier>
+    <dc:date>2018-08-20T07:27:16Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/162/1/6:2048)" end="OPS/body4.xhtml#point(/1/2/162/1/6:2058)" progress="0">
+      <text>large park</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T07:27:16Z</dc:date>
+      <text>Do they really have space for a large park whn they just brely hsve the ressources to sustain tjemselves?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:97af66c8-78bb-4254-95d5-fa42c5a704ba</dc:identifier>
+    <dc:date>2018-08-19T17:59:31Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/50/1/1:148)" end="OPS/body4.xhtml#point(/1/2/50/1/1:214)" progress="0">
+      <text>panic. Food got hard to get, because people started hoarding food.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T17:59:31Z</dc:date>
+      <text>Redtructure. Combine panic and hardig in one sentence for more fluent reading</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:a160c8ac-1868-4153-89fd-925b69bcd50a</dc:identifier>
+    <dc:date>2018-08-19T14:29:09Z</dc:date>
+    <target>
+      <fragment start="OPS/body3.xhtml#point(/1/2/78/1/1:105)" end="OPS/body3.xhtml#point(/1/2/78/1/1:107)" progress="0">
+      <text>an</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T14:29:09Z</dc:date>
+      <text>And</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:2eb06711-4592-46a2-9126-19c62a443d0a</dc:identifier>
+    <dc:date>2018-08-20T05:51:31Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/134/1/1:300)" end="OPS/body4.xhtml#point(/1/2/134/1/1:306)" progress="0">
+      <text>s, and</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:51:31Z</dc:date>
+      <text>', and' again. I don't think this is proer gramma.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:eb2ef6f8-ef38-46d5-a7de-5cbaf324287a</dc:identifier>
+    <dc:date>2018-08-19T14:33:01Z</dc:date>
+    <target>
+      <fragment start="OPS/body3.xhtml#point(/1/2/100/1/1:447)" end="OPS/body3.xhtml#point(/1/2/100/1/1:451)" progress="0">
+      <text>said</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T14:33:01Z</dc:date>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:a9b12d6d-0d76-4328-89be-8ab8cd013587</dc:identifier>
+    <dc:date>2018-08-20T09:46:37Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/170/1/1:106)" end="OPS/body4.xhtml#point(/1/2/170/1/1:113)" progress="0">
+      <text> in it.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T09:46:37Z</dc:date>
+      <text>'to join'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:fc21b3b3-5170-4bdd-922e-29536d263640</dc:identifier>
+    <dc:date>2018-08-20T16:07:37Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/24/1/18:9)" end="OPS/body5.xhtml#point(/1/2/24/1/18:12)" progress="0">
+      <text> on</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T16:07:37Z</dc:date>
+      <text>Remove</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:b47ce91c-9a07-4875-b101-95ba52e9b84b</dc:identifier>
+    <dc:date>2018-08-20T05:27:21Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/116/1/1:685)" end="OPS/body4.xhtml#point(/1/2/116/1/1:688)" progress="0">
+      <text>for</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:27:21Z</dc:date>
+      <text>'from'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:43119cdb-3a9b-42a9-a247-d6089d890216</dc:identifier>
+    <dc:date>2018-08-19T18:38:04Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/100/1/1:383)" end="OPS/body4.xhtml#point(/1/2/100/1/1:399)" progress="0">
+      <text>to keep track of</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T18:38:04Z</dc:date>
+      <text>Remove this to have a correct sentence</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:c44e6a4d-bef3-4f2a-9c4b-e3222e1bb8ea</dc:identifier>
+    <dc:date>2018-08-19T14:38:16Z</dc:date>
+    <target>
+      <fragment start="OPS/body3.xhtml#point(/1/2/108/3/1:198)" end="OPS/body3.xhtml#point(/1/2/108/3/1:352)" progress="0">
+      <text>kindly, and, when I was done, provided me with a tissue. She told me that there’s life besides your career, and also, that things can get better again. </text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T14:38:16Z</dc:date>
+      <text>Many commas, maybe rework structure here?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:e3006434-b80b-45e8-94ae-c82e59638fbe</dc:identifier>
+    <dc:date>2018-08-19T14:13:29Z</dc:date>
+    <target>
+      <fragment start="OPS/body3.xhtml#point(/1/2/20/1/1:126)" end="OPS/body3.xhtml#point(/1/2/20/1/1:131)" progress="0">
+      <text>crops</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T14:13:29Z</dc:date>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:307b570c-2640-47d0-925b-41da7611c392</dc:identifier>
+    <dc:date>2018-08-20T05:15:35Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/108/1/1:1163)" end="OPS/body4.xhtml#point(/1/2/108/1/1:1177)" progress="0">
+      <text>to already be </text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:15:35Z</dc:date>
+      <text>'to have been' and 'already' at the end.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:714425b9-b9cf-43f7-8672-99e6477b56aa</dc:identifier>
+    <dc:date>2018-08-19T18:37:04Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/100/1/1:226)" end="OPS/body4.xhtml#point(/1/2/100/1/1:243)" progress="0">
+      <text>ur mobile phones.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T18:37:04Z</dc:date>
+      <text>maybe add 'and the batteries for the radio' or 'and start listening to the radio again'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:60f85b75-f1b6-4886-8299-5b6ce7d2947a</dc:identifier>
+    <dc:date>2018-08-20T06:43:59Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/152/1/1:173)" end="OPS/body4.xhtml#point(/1/2/152/1/1:188)" progress="0">
+      <text>The next night,</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:43:59Z</dc:date>
+      <text>Why do they have day and night, when the man in the first chapter doesn't? Isn't he also somewhere in the area?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:2e25e127-82c5-4f36-9172-1ade038b2ef3</dc:identifier>
+    <dc:date>2018-08-20T06:07:59Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/140/1/1:1196)" end="OPS/body4.xhtml#point(/1/2/140/1/1:1206)" progress="0">
+      <text>like this,</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:08:14Z</dc:date>
+      <text>Like what? How does the other know whst he feels without him having said anything? Rework.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:eb48d29f-99ec-4163-8edf-6001f42d7511</dc:identifier>
+    <dc:date>2018-08-20T07:03:07Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/158/1/2:1575)" end="OPS/body4.xhtml#point(/1/2/158/1/2:1579)" progress="0">
+      <text>hope</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T07:03:07Z</dc:date>
+      <text>Repetition</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:26aac489-5c8c-451f-8946-e6c9f69ce2e6</dc:identifier>
+    <dc:date>2018-08-20T07:08:10Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/162/1/4:899)" end="OPS/body4.xhtml#point(/1/2/162/1/4:929)" progress="0">
+      <text> wouldn’t have consequences.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T07:08:10Z</dc:date>
+      <text>That just doesn't fit. Almost ruining the Council and then getting away with it, because you didn't mean to do that? Just doesn't sound plausible at all.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:d7b24e6b-6e96-4b83-824f-3b7eb0bdf554</dc:identifier>
+    <dc:date>2018-08-20T08:30:12Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/168/3/1:165)" end="OPS/body4.xhtml#point(/1/2/168/3/1:280)" progress="0">
+      <text>The anger turned to hatred. I wanted this group gone, and the people in it destroyed. Not just dead, but destroyed.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T08:31:28Z</dc:date>
+      <text>That seems quite extreme... Especially for someone this peacful before. Wouldn't she first want to find out why they were doing that and whst they were intending to gain by this?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:5da0e1ff-9843-4509-9235-c34ec8098998</dc:identifier>
+    <dc:date>2018-08-19T18:13:04Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/66/1/1:13)" end="OPS/body4.xhtml#point(/1/2/66/1/1:18)" progress="0">
+      <text>stare</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T18:13:04Z</dc:date>
+      <text>Look or peek might be a better word here, since it only turned into a stare when he knew what he saw.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:d53e7e2b-3dc2-4340-915c-fc44d431f10e</dc:identifier>
+    <dc:date>2018-08-20T06:29:56Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/150/1/1:8)" end="OPS/body4.xhtml#point(/1/2/150/1/1:17)" progress="0">
+      <text>airlifted</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:29:56Z</dc:date>
+      <text>I don't think thats a word. 'transported'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:9d4d4cee-db28-47fc-8df6-4c048f63b9b9</dc:identifier>
+    <dc:date>2018-08-19T14:11:52Z</dc:date>
+    <target>
+      <fragment start="OPS/body3.xhtml#point(/1/2/12/1/1:50)" end="OPS/body3.xhtml#point(/1/2/12/1/1:56)" progress="0">
+      <text>today.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T14:11:52Z</dc:date>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:00f890d9-caf2-4a4e-9e9e-d4f2a22a76ec</dc:identifier>
+    <dc:date>2018-08-20T06:51:25Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/156/1/1:525)" end="OPS/body4.xhtml#point(/1/2/156/1/1:531)" progress="0">
+      <text>showed</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:51:25Z</dc:date>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:3fc8980e-2584-4768-9631-a19ed589b281</dc:identifier>
+    <dc:date>2018-08-20T12:57:09Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/8/2/1:362)" end="OPS/body5.xhtml#point(/1/2/8/2/1:382)" progress="0">
+      <text>rethink of decisions</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T12:57:32Z</dc:date>
+      <text>'of' -&gt; 'the' or remove</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:99648406-44d3-435f-be64-0dddc312c3f8</dc:identifier>
+    <dc:date>2018-08-20T06:16:17Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/144/1/1:928)" end="OPS/body4.xhtml#point(/1/2/144/1/1:947)" progress="0">
+      <text>a cable car system.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:16:30Z</dc:date>
+      <text>This sounds entirely unpheasable to me.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:c0221cec-f870-49ee-8dab-b03c8a37c5a8</dc:identifier>
+    <dc:date>2018-08-19T15:28:17Z</dc:date>
+    <target>
+      <fragment start="OPS/body3.xhtml#point(/1/2/264/1/1:392)" end="OPS/body3.xhtml#point(/1/2/264/1/1:397)" progress="0">
+      <text>wánt</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T15:28:17Z</dc:date>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:a0098358-2d08-4ae3-bdd0-a58a0134809b</dc:identifier>
+    <dc:date>2018-08-19T17:47:58Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/26/1/1:582)" end="OPS/body4.xhtml#point(/1/2/26/1/1:591)" progress="0">
+      <text>anonymous</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T17:47:58Z</dc:date>
+      <text>Anonymize</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:0ba30a2a-97d4-4c83-9e65-c2d4e55202aa</dc:identifier>
+    <dc:date>2018-08-19T18:06:59Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/60/1/1:325)" end="OPS/body4.xhtml#point(/1/2/60/1/1:328)" progress="0">
+      <text>got</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T18:06:59Z</dc:date>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:a5f18dbe-013b-424b-956f-08f6ffddcffb</dc:identifier>
+    <dc:date>2018-08-20T06:52:36Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/156/1/1:884)" end="OPS/body4.xhtml#point(/1/2/156/1/1:887)" progress="0">
+      <text>has</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:52:36Z</dc:date>
+      <text>'had'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:3628eb45-b81f-44ae-9cc7-4e971bff13c3</dc:identifier>
+    <dc:date>2018-08-20T06:57:22Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/158/1/2:697)" end="OPS/body4.xhtml#point(/1/2/158/1/2:701)" progress="0">
+      <text>were</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:57:22Z</dc:date>
+      <text>'was'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:19493d15-0b4f-4aed-8bbc-4a03b9f9b553</dc:identifier>
+    <dc:date>2018-08-19T17:51:20Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/30/1/1:92)" end="OPS/body4.xhtml#point(/1/2/30/1/1:99)" progress="0">
+      <text>slowing</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T17:51:20Z</dc:date>
+      <text>Growing</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:2a9ab224-3f34-49d6-957f-f699ffb17fdc</dc:identifier>
+    <dc:date>2018-08-20T06:55:46Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/158/1/2:540)" end="OPS/body4.xhtml#point(/1/2/158/1/2:577)" progress="0">
+      <text>both it, and with it, all of humanity</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:55:46Z</dc:date>
+      <text>Clunky ( =bumpy )</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:67105018-7e41-4d01-974d-735b7da57571</dc:identifier>
+    <dc:date>2018-08-20T06:17:58Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/146/1/1:447)" end="OPS/body4.xhtml#point(/1/2/146/1/1:450)" progress="0">
+      <text>and</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:17:58Z</dc:date>
+      <text>, and again</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:ad4dee27-fda1-47a2-b6c6-06dc6a110147</dc:identifier>
+    <dc:date>2018-08-19T15:43:38Z</dc:date>
+    <target>
+      <fragment start="OPS/body3.xhtml#point(/1/2/298/1/1:268)" end="OPS/body3.xhtml#point(/1/2/298/1/1:271)" progress="0">
+      <text>got</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T15:43:38Z</dc:date>
+      <text>Had broken</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:7dcc753d-c5e5-464f-b30e-22a7e808a049</dc:identifier>
+    <dc:date>2018-08-20T08:27:25Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/168/1/1:50)" end="OPS/body4.xhtml#point(/1/2/168/1/1:115)" progress="0">
+      <text>Some sources started to report internally that there were people </text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T08:27:25Z</dc:date>
+      <text>Sentence structure</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:e6deda50-bc55-461a-afa3-f02ddebe99d4</dc:identifier>
+    <dc:date>2018-08-19T18:33:42Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/96/1/1:397)" end="OPS/body4.xhtml#point(/1/2/96/1/1:420)" progress="0">
+      <text>listening to the radio </text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T18:33:42Z</dc:date>
+      <text>Battery owered radio, I guess</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:61c2ae4b-29b9-40ae-ab9b-a16aac1f72d7</dc:identifier>
+    <dc:date>2018-08-19T18:07:16Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/60/1/1:324)" end="OPS/body4.xhtml#point(/1/2/60/1/1:328)" progress="0">
+      <text> got</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T18:07:16Z</dc:date>
+      <text>Wording</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:2b8ff0b8-08ca-41af-8592-a416534fc078</dc:identifier>
+    <dc:date>2018-08-20T08:07:43Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/166/1/1:157)" end="OPS/body4.xhtml#point(/1/2/166/2/1:20)" progress="0">
+      <text>the Voice of Reason,</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T08:17:09Z</dc:date>
+      <text>I'd add quotes, since italics suggests that the 'the' is part of the name, but your capitalisation excludes it.
+
+Also, why do they suddenly exist?
+Nothing so far has hinted at people diagreeing with the government.
+Also they are missing motivaions and goals so far.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:364b80fb-54a0-4a5b-9403-5cd71a785999</dc:identifier>
+    <dc:date>2018-08-20T06:12:19Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/144/1/1:403)" end="OPS/body4.xhtml#point(/1/2/144/1/1:429)" progress="0">
+      <text>helping people meet people</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:12:19Z</dc:date>
+      <text>Repetition. Bumpy to read.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:f5c457df-a8e8-4d42-9a1c-79d39de5eb1f</dc:identifier>
+    <dc:date>2018-08-20T06:45:01Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/152/1/1:251)" end="OPS/body4.xhtml#point(/1/2/152/1/1:256)" progress="0">
+      <text>time,</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:45:01Z</dc:date>
+      <text>'night'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:73c14871-7df9-4b03-8a05-38a8e92bd78a</dc:identifier>
+    <dc:date>2018-08-20T05:56:35Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/134/1/1:1383)" end="OPS/body4.xhtml#point(/1/2/134/1/1:1386)" progress="0">
+      <text>are</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:56:35Z</dc:date>
+      <text>Wrong timeform</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:a6aa54ba-8b10-4d89-bd48-df9d82de002d</dc:identifier>
+    <dc:date>2018-08-20T08:24:57Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/166/3/1:401)" end="OPS/body4.xhtml#point(/1/2/166/3/1:404)" progress="0">
+      <text>you</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T08:24:57Z</dc:date>
+      <text>Remove</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:d4df8500-a064-4ff8-b1b6-67ea5dac4748</dc:identifier>
+    <dc:date>2018-08-19T15:35:27Z</dc:date>
+    <target>
+      <fragment start="OPS/body3.xhtml#point(/1/2/282/1/1:182)" end="OPS/body3.xhtml#point(/1/2/282/1/1:292)" progress="0">
+      <text>exploded on impact with the ground. It managed to put all the energy of the missiles directly into the ground.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T15:35:27Z</dc:date>
+      <text>Nuclear missiles do not explode on ground contct. They explode at a set position, high above the target.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:11f42cab-1233-461e-a0f1-51104fc59924</dc:identifier>
+    <dc:date>2018-08-20T06:32:50Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/150/1/1:327)" end="OPS/body4.xhtml#point(/1/2/150/1/1:345)" progress="0">
+      <text>built our shelter,</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:32:50Z</dc:date>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:f4152146-d87f-459c-9cfc-5822b994bf4e</dc:identifier>
+    <dc:date>2018-08-19T18:19:11Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/66/1/1:90)" end="OPS/body4.xhtml#point(/1/2/66/1/1:116)" progress="0">
+      <text>frightened me endlessly. T</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T18:19:11Z</dc:date>
+      <text>Referenced in later note</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:055c73fd-5a17-4eee-b797-19c2587fb549</dc:identifier>
+    <dc:date>2018-08-19T18:40:07Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/108/1/1:88)" end="OPS/body4.xhtml#point(/1/2/108/1/1:97)" progress="0">
+      <text>came out.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T18:40:48Z</dc:date>
+      <text>Slang. Disembarked or exited sounds better</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:7e21b97f-bb0d-4a90-a08d-28b89b7482ee</dc:identifier>
+    <dc:date>2018-08-20T07:33:48Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/162/1/6:2591)" end="OPS/body4.xhtml#point(/1/2/162/1/6:2640)" progress="0">
+      <text>o seemed like the type you had to take seriously.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T07:33:48Z</dc:date>
+      <text>Why?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:ff0332dd-0fde-4fc7-aa71-180a0e1fff81</dc:identifier>
+    <dc:date>2018-08-20T13:10:06Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/16/1/8:458)" end="OPS/body5.xhtml#point(/1/2/16/1/8:560)" progress="0">
+      <text>We received messages from them, telling us that they were doing fine, but still, none of them returned</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T13:10:06Z</dc:date>
+      <text>Where was the delegate from thir shard, that could have been asked those quesrions?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:2b1f6f36-3724-4dad-9ad3-175b22645bdb</dc:identifier>
+    <dc:date>2018-08-20T06:50:22Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/156/1/1:440)" end="OPS/body4.xhtml#point(/1/2/156/1/1:446)" progress="0">
+      <text>showed</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:50:42Z</dc:date>
+      <text>'contained' or 'included'?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:dfd799c8-6df1-457a-8b88-998eede4f7e2</dc:identifier>
+    <dc:date>2018-08-19T14:36:16Z</dc:date>
+    <target>
+      <fragment start="OPS/body3.xhtml#point(/1/2/108/3/1:17)" end="OPS/body3.xhtml#point(/1/2/108/3/1:26)" progress="0">
+      <text>walking, </text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T14:36:16Z</dc:date>
+      <text>I don't think the comma is gramatically correct, although it gives the desired pause.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:891b86eb-16f4-4107-969c-91a1a2feb797</dc:identifier>
+    <dc:date>2018-08-20T13:17:12Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/22/1/2:389)" end="OPS/body5.xhtml#point(/1/2/22/1/2:539)" progress="0">
+      <text>It seemed they got more and more concerned with keeping their own position, and less concerned with the lives of the people not living in the capital.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T13:17:12Z</dc:date>
+      <text>Olay, I get where this is going.
+
+Still the terrorists should be introduced more gradually. Maybe as a threat to order at first...</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:668769b7-e549-4f48-a76d-70edb6f9de23</dc:identifier>
+    <dc:date>2018-08-20T16:05:15Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/24/1/16:548)" end="OPS/body5.xhtml#point(/1/2/24/1/16:566)" progress="0">
+      <text>a horrible attack,</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T16:05:15Z</dc:date>
+      <text>'violent terrorist'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:f903d1cd-81a8-48de-b23f-7c3285e74a49</dc:identifier>
+    <dc:date>2018-08-19T15:31:42Z</dc:date>
+    <target>
+      <fragment start="OPS/body3.xhtml#point(/1/2/274/1/1:85)" end="OPS/body3.xhtml#point(/1/2/274/1/1:121)" progress="0">
+      <text>Where used to be beautiful mountains</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T15:31:42Z</dc:date>
+      <text>Where beautiful mountains used to be...
+Or
+Where there used to be beaut..</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:2ad226a0-a9ab-488c-8627-93a434c1165a</dc:identifier>
+    <dc:date>2018-08-20T06:46:46Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/152/1/1:376)" end="OPS/body4.xhtml#point(/1/2/152/1/1:533)" progress="0">
+      <text>It told me I seemed like a reasonable person. I answered that I try to be. I asked it what it was. It told me it was a creature that wasn’t from this world</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:46:46Z</dc:date>
+      <text>Turn into direct dialogue or fix your timeforms.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:aca7bd13-156e-436b-bd90-e857f583368e</dc:identifier>
+    <dc:date>2018-08-20T13:18:47Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/22/1/2:1028)" end="OPS/body5.xhtml#point(/1/2/22/1/2:1031)" progress="0">
+      <text>his</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T13:18:47Z</dc:date>
+      <text>Her</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:cde67db1-7cff-4700-a4a6-3ab9d91a0119</dc:identifier>
+    <dc:date>2018-08-20T06:42:11Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/152/1/1:153)" end="OPS/body4.xhtml#point(/1/2/152/1/1:172)" progress="0">
+      <text>during the daytime.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:42:11Z</dc:date>
+      <text>Bumpy to read.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:1339b001-bb2f-4fc4-98c0-d1d4efbf1911</dc:identifier>
+    <dc:date>2018-08-20T06:14:57Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/144/1/1:687)" end="OPS/body4.xhtml#point(/1/2/144/1/1:690)" progress="0">
+      <text>are</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:14:57Z</dc:date>
+      <text>Timeform</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:56452054-0b9e-48cb-816e-40569781b6b9</dc:identifier>
+    <dc:date>2018-08-20T07:20:11Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/162/1/6:1839)" end="OPS/body4.xhtml#point(/1/2/162/1/6:1852)" progress="0">
+      <text>Miss Walters,</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T07:20:11Z</dc:date>
+      <text>Don't we already know her? Her introduction was too short to make the name stick.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:319e2b32-5206-4e15-9f94-dfb72fa83383</dc:identifier>
+    <dc:date>2018-08-20T16:23:38Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/24/1/24:27)" end="OPS/body5.xhtml#point(/1/2/24/1/24:39)" progress="0">
+      <text>to not take </text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T16:23:50Z</dc:date>
+      <text>'not to take'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:ebfb993a-f5a3-4670-97fb-f9a490223c69</dc:identifier>
+    <dc:date>2018-08-20T05:13:36Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/108/1/1:969)" end="OPS/body4.xhtml#point(/1/2/108/1/1:978)" progress="0">
+      <text>in there,</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:14:07Z</dc:date>
+      <text>'on them' sounds better. Also move this to end of sentence</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:353e2f9e-281e-4786-8ce1-34cb956bf580</dc:identifier>
+    <dc:date>2018-08-19T18:24:04Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/86/1/1:195)" end="OPS/body4.xhtml#point(/1/2/86/1/1:228)" progress="0">
+      <text>The stock-markets had closed down</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T18:24:04Z</dc:date>
+      <text>How is the stock market even in one piece. And how is it still relevant with no one being able to go to work and most companies probably being in ruins or cut off from the world?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:7d0564a6-fc91-4ef6-888f-943c9a31417d</dc:identifier>
+    <dc:date>2018-08-20T05:21:26Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/108/1/1:1954)" end="OPS/body4.xhtml#point(/1/2/108/1/1:1961)" progress="0">
+      <text>entered</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:21:26Z</dc:date>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:366bf389-f03e-4f4d-80aa-8d693c570265</dc:identifier>
+    <dc:date>2018-08-20T07:52:46Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/162/1/6:3848)" end="OPS/body4.xhtml#point(/1/2/162/1/6:4129)" progress="0">
+      <text> replied that I didn’t fear her, because, since I tried to help in the best way I could, I saw no reason for me to be afraid of her.  I told her she didn’t strike me as the kind of person that punishes for no reason. She laughed, and said she at least tried to be a fair person</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T07:52:46Z</dc:date>
+      <text>Sounds quite stiff. Probably needs to bcome real dialoue.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:333c85d8-cf6b-4537-8962-9d9fbf93cec8</dc:identifier>
+    <dc:date>2018-08-19T18:20:36Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/78/1/1:0)" end="OPS/body4.xhtml#point(/1/2/78/1/1:196)" progress="0">
+      <text>Then the a realization struck like thunder, all my friends may be on different rocks now. And: how is my cat doing? I stared blindly into the sky, overwhelmed by the events that had just happened.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T18:20:36Z</dc:date>
+      <text>Referenced by previous note</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:e5704e3f-9e17-477b-a3cd-64fcbc3eac28</dc:identifier>
+    <dc:date>2018-08-20T16:05:56Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/24/1/16:603)" end="OPS/body5.xhtml#point(/1/2/24/1/16:625)" progress="0">
+      <text>long spent to collect.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T16:06:57Z</dc:date>
+      <text>'had spent a long time to earn'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:272df151-a9c3-455b-8c4d-e6a464f737df</dc:identifier>
+    <dc:date>2018-08-20T06:14:33Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/144/1/1:650)" end="OPS/body4.xhtml#point(/1/2/144/1/1:654)" progress="0">
+      <text>were</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:14:33Z</dc:date>
+      <text>Some kind of punktuation needed after here.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:bfbb0683-03e7-4bf4-b334-84ee8bfa93d5</dc:identifier>
+    <dc:date>2018-08-20T07:02:47Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/158/1/2:1532)" end="OPS/body4.xhtml#point(/1/2/158/1/2:1538)" progress="0">
+      <text>remove</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T07:02:47Z</dc:date>
+      <text>'destroy' or 'deter' ?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:fe6b464a-389e-4562-ac6e-0078862efadf</dc:identifier>
+    <dc:date>2018-08-20T05:58:48Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/136/1/1:497)" end="OPS/body4.xhtml#point(/1/2/136/1/1:501)" progress="0">
+      <text>feel</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:58:48Z</dc:date>
+      <text> Worng timeform. 'would feel' or 'felt' </text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:c82e5471-ad30-4f82-b431-eb69940328ed</dc:identifier>
+    <dc:date>2018-08-20T05:32:55Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/118/1/1:334)" end="OPS/body4.xhtml#point(/1/2/118/1/1:356)" progress="0">
+      <text>and were also assigned</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:32:55Z</dc:date>
+      <text>'who had also been assigned'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:7257156f-43aa-424e-b332-ce5b19900933</dc:identifier>
+    <dc:date>2018-08-20T06:59:01Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/158/1/2:1046)" end="OPS/body4.xhtml#point(/1/2/158/1/2:1058)" progress="0">
+      <text> After-wards</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:59:20Z</dc:date>
+      <text>One word. No need for -</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:ae204d7e-696c-4c80-a1cf-d215c17adc1e</dc:identifier>
+    <dc:date>2018-08-20T09:56:51Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/172/1/2:69)" end="OPS/body4.xhtml#point(/1/2/172/1/2:76)" progress="0">
+      <text>prepped</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T09:56:51Z</dc:date>
+      <text>Slang</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:3125667f-16a8-4196-9aad-febe439b4969</dc:identifier>
+    <dc:date>2018-08-19T17:38:50Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/18/1/1:353)" end="OPS/body4.xhtml#point(/1/2/18/1/1:359)" progress="0">
+      <text>panic.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T17:38:50Z</dc:date>
+      <text>Repeat</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:a6e08071-6024-4fcd-94cd-ef1582ae5d21</dc:identifier>
+    <dc:date>2018-08-20T06:48:14Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/152/1/1:1310)" end="OPS/body4.xhtml#point(/1/2/152/1/1:1374)" progress="0">
+      <text>but that I would stop if I felt wrong about continuing doing it.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:48:14Z</dc:date>
+      <text>Bumpy.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:9f1752a0-2751-4740-ba1d-cf3ab085b058</dc:identifier>
+    <dc:date>2018-08-20T06:59:54Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/158/1/2:1193)" end="OPS/body4.xhtml#point(/1/2/158/1/2:1237)" progress="0">
+      <text>had a feeling he had fallen in love with me,</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T07:00:55Z</dc:date>
+      <text>Too sudden? Maybe mention that he behaved unusually on the island?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:c73dd3bd-b3a5-4161-8ded-040967128c92</dc:identifier>
+    <dc:date>2018-08-20T15:30:49Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/24/1/4:965)" end="OPS/body5.xhtml#point(/1/2/24/1/4:968)" progress="0">
+      <text>has</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T15:30:49Z</dc:date>
+      <text>'had'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:06107585-e1f5-458b-93a0-e5291b6ac438</dc:identifier>
+    <dc:date>2018-08-20T15:59:44Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/24/1/14:42)" end="OPS/body5.xhtml#point(/1/2/24/1/14:53)" progress="0">
+      <text>Part of it </text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T15:59:58Z</dc:date>
+      <text>Another it without first declaring what that 'it' is. Replace with 'Some of us'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:3a111eef-1006-4cd1-913d-86ca8e7c39b7</dc:identifier>
+    <dc:date>2018-08-20T06:45:54Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/152/1/1:350)" end="OPS/body4.xhtml#point(/1/2/152/1/1:354)" progress="0">
+      <text>find</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:45:54Z</dc:date>
+      <text>'found'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:7328e8cf-984b-4114-ba8c-11e3a02f24bb</dc:identifier>
+    <dc:date>2018-08-20T07:31:25Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/162/1/6:2510)" end="OPS/body4.xhtml#point(/1/2/162/1/6:2522)" progress="0">
+      <text>in her room;</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T07:31:25Z</dc:date>
+      <text>Either 'let in.' or 'let into her room/office'. Not both.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:2a198411-03bd-459a-8ff4-2f33923928f2</dc:identifier>
+    <dc:date>2018-08-19T15:01:43Z</dc:date>
+    <target>
+      <fragment start="OPS/body3.xhtml#point(/1/2/132/1/1:365)" end="OPS/body3.xhtml#point(/1/2/132/1/1:383)" progress="0">
+      <text>what’s in there.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T15:01:43Z</dc:date>
+      <text>I'd reword this</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:570f3595-4291-4618-903e-7f12f2f04d1f</dc:identifier>
+    <dc:date>2018-08-20T07:55:41Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/162/1/6:4501)" end="OPS/body4.xhtml#point(/1/2/162/1/6:4547)" progress="0">
+      <text>would find a way to thank me at a later point.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T07:55:41Z</dc:date>
+      <text>Sounds odd. Is there a concrete reason why a 'Thank you' isn't enough? It's only the information that a theory exists, nothing too amazing... (Unless you know that the theory is true, which she shouldn't know, though.)</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:c1c165e4-7a46-4b3a-aef7-bb8829c42fc1</dc:identifier>
+    <dc:date>2018-08-19T14:33:06Z</dc:date>
+    <target>
+      <fragment start="OPS/body3.xhtml#point(/1/2/100/1/1:366)" end="OPS/body3.xhtml#point(/1/2/100/1/1:370)" progress="0">
+      <text>said</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T14:33:06Z</dc:date>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:5c0f719b-5496-4890-ab27-70e15900fdef</dc:identifier>
+    <dc:date>2018-08-20T13:40:34Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/22/1/2:1187)" end="OPS/body5.xhtml#point(/1/2/22/1/2:1189)" progress="0">
+      <text>He</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T13:40:34Z</dc:date>
+      <text>She</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:a2e4a95b-b29c-41d9-b27c-f1239a92afce</dc:identifier>
+    <dc:date>2018-08-19T18:34:30Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/96/1/1:543)" end="OPS/body4.xhtml#point(/1/2/96/1/1:557)" progress="0">
+      <text>start on a way</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T18:34:30Z</dc:date>
+      <text>Start on [developing] a way</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:9bf3c6e1-318b-4fad-b505-2efe25deba9b</dc:identifier>
+    <dc:date>2018-08-20T06:17:14Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/146/1/1:126)" end="OPS/body4.xhtml#point(/1/2/146/1/1:130)" progress="0">
+      <text>life</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:17:14Z</dc:date>
+      <text>'lives'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:3facefee-f593-44b1-a8dc-4d50d7060f82</dc:identifier>
+    <dc:date>2018-08-20T06:06:24Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/140/1/1:1190)" end="OPS/body4.xhtml#point(/1/2/140/1/1:1195)" progress="0">
+      <text>feels</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:06:24Z</dc:date>
+      <text>Wrong timform.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:57f6592e-3a1f-4e99-899a-58f2ed9bff90</dc:identifier>
+    <dc:date>2018-08-19T18:02:48Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/52/1/1:256)" end="OPS/body4.xhtml#point(/1/2/52/1/1:261)" progress="0">
+      <text>angry</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T18:03:06Z</dc:date>
+      <text>Angry -&gt; paniced or scared</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:cb675a4f-3e3f-41fc-8274-0f2053d26801</dc:identifier>
+    <dc:date>2018-08-20T05:33:44Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/122/1/1:78)" end="OPS/body4.xhtml#point(/1/2/122/1/1:83)" progress="0">
+      <text>bit, </text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:33:44Z</dc:date>
+      <text>I'm not sure if the comma is grammatically correct</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:1de0035d-d21e-4e7f-8ada-c6c043d7ff3a</dc:identifier>
+    <dc:date>2018-08-20T06:36:32Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/150/1/1:971)" end="OPS/body4.xhtml#point(/1/2/150/1/1:978)" progress="0">
+      <text>Somehow</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:36:32Z</dc:date>
+      <text>Maybe elaborate?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:5da491ff-5451-458c-baa6-7505c738e63c</dc:identifier>
+    <dc:date>2018-08-20T06:39:13Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/150/1/1:1580)" end="OPS/body4.xhtml#point(/1/2/150/1/1:1625)" progress="0">
+      <text>I didn’t dream I finally fell asleep again,</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:39:48Z</dc:date>
+      <text>I get what this is supposed to mean, but this needs to be more readable.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:ad09dfa5-a28c-4f2b-a418-a770e6fa9301</dc:identifier>
+    <dc:date>2018-08-19T14:45:16Z</dc:date>
+    <target>
+      <fragment start="OPS/body3.xhtml#point(/1/2/124/1/3:239)" end="OPS/body3.xhtml#point(/1/2/124/1/3:242)" progress="0">
+      <text>got</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T14:45:16Z</dc:date>
+      <text>Made</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:e0110f4b-ea27-4538-a548-5c57dedee847</dc:identifier>
+    <dc:date>2018-08-20T05:49:30Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/130/1/1:269)" end="OPS/body4.xhtml#point(/1/2/130/1/1:345)" progress="0">
+      <text>escribe our Shard and what facilities it had. We were also asked to describe</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:49:30Z</dc:date>
+      <text>Join sentences, since this is just an enumeration split into two sentences, which makes it less clear and doesn't add anything.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:47610ef0-631e-49d6-9caf-8b26b7c13cb1</dc:identifier>
+    <dc:date>2018-08-20T06:58:17Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/158/1/2:833)" end="OPS/body4.xhtml#point(/1/2/158/1/2:844)" progress="0">
+      <text>information</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:58:17Z</dc:date>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:553cae75-aade-45fb-b4c7-b8ce5abbaeba</dc:identifier>
+    <dc:date>2018-08-20T05:10:50Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/108/1/1:738)" end="OPS/body4.xhtml#point(/1/2/108/1/1:764)" progress="0">
+      <text>how the world was looking.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:10:50Z</dc:date>
+      <text>'wbat remainedof th world' ?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:f182722a-4a52-465f-a1e1-6f8697a66a54</dc:identifier>
+    <dc:date>2018-08-19T15:11:12Z</dc:date>
+    <target>
+      <fragment start="OPS/body3.xhtml#point(/1/2/180/1/1:337)" end="OPS/body3.xhtml#point(/1/2/180/1/1:341)" progress="0">
+      <text>more</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T15:11:12Z</dc:date>
+      <text>Most?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:92389b1f-4fe1-4aaf-b5ab-dd04d50bfe85</dc:identifier>
+    <dc:date>2018-08-20T16:18:24Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/24/1/22:449)" end="OPS/body5.xhtml#point(/1/2/24/1/22:451)" progress="0">
+      <text>we</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T16:18:24Z</dc:date>
+      <text>Remove</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:b948e711-eb01-42b0-be11-fbef60f21058</dc:identifier>
+    <dc:date>2018-08-19T14:19:17Z</dc:date>
+    <target>
+      <fragment start="OPS/body3.xhtml#point(/1/2/46/1/1:345)" end="OPS/body3.xhtml#point(/1/2/46/1/1:350)" progress="0">
+      <text>here.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T14:19:17Z</dc:date>
+      <text>Unneeded</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:8c40bba0-3618-4fe0-89ae-061dc5fb46d1</dc:identifier>
+    <dc:date>2018-08-19T15:24:06Z</dc:date>
+    <target>
+      <fragment start="OPS/body3.xhtml#point(/1/2/238/1/1:92)" end="OPS/body3.xhtml#point(/1/2/238/1/1:98)" progress="0">
+      <text>flame.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T15:24:06Z</dc:date>
+      <text>catch fire</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:87028fd3-24c0-4b0e-8c8f-e626f896a506</dc:identifier>
+    <dc:date>2018-08-20T06:34:17Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/150/1/1:450)" end="OPS/body4.xhtml#point(/1/2/150/1/1:453)" progress="0">
+      <text>out</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:34:17Z</dc:date>
+      <text>Seems out if place</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:81eb8fa9-5372-4262-80da-efed8e0a79b4</dc:identifier>
+    <dc:date>2018-08-20T06:04:54Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/140/1/1:1080)" end="OPS/body4.xhtml#point(/1/2/140/1/1:1089)" progress="0">
+      <text>it seemed</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:04:54Z</dc:date>
+      <text>'he saw'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:4d5f31ef-2ee2-48fe-93a5-5ef923a5f04e</dc:identifier>
+    <dc:date>2018-08-20T06:45:41Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/152/1/1:317)" end="OPS/body4.xhtml#point(/1/2/152/1/1:324)" progress="0">
+      <text>somehow</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:45:41Z</dc:date>
+      <text>Comma</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:a792d23a-3356-4482-bceb-cc18df22a04b</dc:identifier>
+    <dc:date>2018-08-20T05:26:39Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/116/1/1:612)" end="OPS/body4.xhtml#point(/1/2/116/1/1:616)" progress="0">
+      <text>yet.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:26:57Z</dc:date>
+      <text>Comma before here</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:c0ca96df-0600-49bf-8215-fe3ce6f2f348</dc:identifier>
+    <dc:date>2018-08-20T07:06:00Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/162/1/4:782)" end="OPS/body4.xhtml#point(/1/2/162/1/4:850)" progress="0">
+      <text>saying I may have jeopardized the position of the Council as a whole</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T07:06:00Z</dc:date>
+      <text>Sounds a bit too extreme for one article...</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:57f30512-7597-4171-911e-ef80b9d3c4ef</dc:identifier>
+    <dc:date>2018-08-20T13:14:14Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/22/1/2:194)" end="OPS/body5.xhtml#point(/1/2/22/1/2:199)" progress="0">
+      <text>A, B,</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T13:14:14Z</dc:date>
+      <text>Fix? :D</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:e9b65599-6bdb-4913-991e-b0117248e230</dc:identifier>
+    <dc:date>2018-08-20T05:53:16Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/134/1/1:708)" end="OPS/body4.xhtml#point(/1/2/134/1/1:737)" progress="0">
+      <text> that’s split up like this.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:53:16Z</dc:date>
+      <text>Reword. ' this widespread' or 'so far spread apart' ?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:a436a63f-c224-47d5-a4dc-22e952831b08</dc:identifier>
+    <dc:date>2018-08-20T15:57:58Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/24/1/10:853)" end="OPS/body5.xhtml#point(/1/2/24/1/10:859)" progress="0">
+      <text>other,</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T15:57:58Z</dc:date>
+      <text>'others'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:13342cdd-9d80-4ab1-bced-f9ed8c5550d3</dc:identifier>
+    <dc:date>2018-08-20T08:12:26Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/166/3/1:119)" end="OPS/body4.xhtml#point(/1/2/166/3/1:127)" progress="0">
+      <text>content.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T08:12:26Z</dc:date>
+      <text>'material'?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:3969ebc7-722b-4305-8a05-b6c341ac3a5a</dc:identifier>
+    <dc:date>2018-08-20T10:25:18Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/170/1/1:114)" end="OPS/body4.xhtml#point(/1/2/170/1/1:731)" progress="0">
+      <text>We spent months researching their behavior, and their actions, but we kept catching nothing. It was as though they were two separated groups. We brought this up once during a meeting, but were told by superiors that they had high-quality evidence suggesting otherwise. The evidence however was not important for this case otherwise, so the data wasn’t shared with us. Although this may sound strange to you, this was normal procedure, to prevent multiple people from doing the same work. Our project on finding them had become unneeded however after a while, because they had turned themselves in. We were told that</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T10:25:18Z</dc:date>
+      <text>All of thid just doesn't add up. There are wy too many smart people that aren't even questioning basic things...</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:19097304-ccd3-418f-946c-8194987abbf1</dc:identifier>
+    <dc:date>2018-08-20T12:55:31Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/8/2/1:319)" end="OPS/body5.xhtml#point(/1/2/8/2/1:329)" progress="0">
+      <text>soft reset</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T12:55:31Z</dc:date>
+      <text>More like a hard reset, if you ask me...</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:f66ea2f4-c2c0-4a20-885f-a8f2f4919de7</dc:identifier>
+    <dc:date>2018-08-20T17:02:50Z</dc:date>
+    <target>
+      <fragment start="OPS/body6.xhtml#point(/1/2/2/2/4:17)" end="OPS/body6.xhtml#point(/1/2/2/2/4:87)" progress="0">
+      <text>I am not that important, but I nevertheless want to tell you my story.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T17:02:50Z</dc:date>
+      <text>Repetition of above.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:869222ba-3242-4ca5-b8c6-d8a25682b161</dc:identifier>
+    <dc:date>2018-08-20T05:19:32Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/108/1/1:1629)" end="OPS/body4.xhtml#point(/1/2/108/1/1:1684)" progress="0">
+      <text>She seemed to be a person not to get into a fight with.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:19:32Z</dc:date>
+      <text>Maybe add a sentnce describing why? Facial features, Stance, ...</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:1e91c8e6-d7e0-46ef-b07e-071ee330fcfd</dc:identifier>
+    <dc:date>2018-08-20T07:01:49Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/158/1/2:1409)" end="OPS/body4.xhtml#point(/1/2/158/1/2:1455)" progress="0">
+      <text>I think he might have fallen in love with me. </text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T07:01:49Z</dc:date>
+      <text>Repetition</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:29665943-ace8-429d-84d7-a65a35059f55</dc:identifier>
+    <dc:date>2018-08-19T15:39:30Z</dc:date>
+    <target>
+      <fragment start="OPS/body3.xhtml#point(/1/2/282/1/1:856)" end="OPS/body3.xhtml#point(/1/2/282/1/1:858)" progress="0">
+      <text>we</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T15:40:07Z</dc:date>
+      <text>He is alone at this point, so I fits better.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:e00785c3-3b41-4464-87e8-954cd897dd11</dc:identifier>
+    <dc:date>2018-08-20T05:18:24Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/108/1/1:1488)" end="OPS/body4.xhtml#point(/1/2/108/1/1:1494)" progress="0">
+      <text>exited</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:18:24Z</dc:date>
+      <text>'left' sounds better</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:e3e60a1e-8abd-4236-9b84-36033f292a45</dc:identifier>
+    <dc:date>2018-08-20T05:17:12Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/108/1/1:1454)" end="OPS/body4.xhtml#point(/1/2/108/1/1:1457)" progress="0">
+      <text> at</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:17:12Z</dc:date>
+      <text>'in front of' or 'on top of'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:b15b8a27-065c-49d8-849d-1932295bd8f2</dc:identifier>
+    <dc:date>2018-08-19T14:15:29Z</dc:date>
+    <target>
+      <fragment start="OPS/body3.xhtml#point(/1/2/28/1/1:442)" end="OPS/body3.xhtml#point(/1/2/28/1/1:448)" progress="0">
+      <text>return</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T14:15:29Z</dc:date>
+      <text>Period</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:db0cf136-d3bb-4d0d-9bd8-d75bbb913d96</dc:identifier>
+    <dc:date>2018-08-20T06:41:15Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/150/1/1:1626)" end="OPS/body4.xhtml#point(/1/2/150/1/1:1629)" progress="0">
+      <text>and</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:41:15Z</dc:date>
+      <text>, and again. I think I will only mark them from now on.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:b6dabd4a-f9eb-4688-bb30-59fc73064d8c</dc:identifier>
+    <dc:date>2018-08-20T08:34:10Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/168/3/1:64)" end="OPS/body4.xhtml#point(/1/2/168/3/1:130)" progress="0">
+      <text>. This felt like an obvious way to peddle back on a mistake to me,</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T08:34:10Z</dc:date>
+      <text>Isn't it a good thing that not everyone who didn't agree with the government and joined that organisation, was bacing the bombing? Doesn't that just how that som members just went too far?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:eb5b7eb6-c419-4caa-915c-ca62b4159fd9</dc:identifier>
+    <dc:date>2018-08-20T08:22:44Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/166/3/1:324)" end="OPS/body4.xhtml#point(/1/2/166/3/1:327)" progress="0">
+      <text>was</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T08:22:44Z</dc:date>
+      <text>Comma</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:5235b5f6-ea40-4e4b-802d-61a43f408807</dc:identifier>
+    <dc:date>2018-08-20T06:10:12Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/144/1/1:211)" end="OPS/body4.xhtml#point(/1/2/144/1/1:224)" progress="0">
+      <text>constructible</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:10:12Z</dc:date>
+      <text>Spelling?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:13d98234-e010-4997-ab3a-8e0c5d46f710</dc:identifier>
+    <dc:date>2018-08-20T15:54:54Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/24/1/10:129)" end="OPS/body5.xhtml#point(/1/2/24/1/10:140)" progress="0">
+      <text>The letter </text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T15:54:54Z</dc:date>
+      <text>Write the letter down literally?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:6a881764-197f-4033-8678-7ed73aaea893</dc:identifier>
+    <dc:date>2018-08-19T17:46:59Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/26/1/1:277)" end="OPS/body4.xhtml#point(/1/2/26/1/1:297)" progress="0">
+      <text> can be a challenge.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T17:46:59Z</dc:date>
+      <text>Was a real challenge, back then</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:51458cb8-1049-48c9-8a90-01fdd57f308a</dc:identifier>
+    <dc:date>2018-08-20T06:52:53Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/156/1/1:888)" end="OPS/body4.xhtml#point(/1/2/156/1/1:898)" progress="0">
+      <text>quite some</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:52:53Z</dc:date>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:87bd620a-b75f-4efd-9841-e63479474118</dc:identifier>
+    <dc:date>2018-08-20T07:29:44Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/162/1/6:2357)" end="OPS/body4.xhtml#point(/1/2/162/1/6:2363)" progress="0">
+      <text>there,</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T07:29:44Z</dc:date>
+      <text>'here'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:99e78fd2-80df-4277-9c48-f686bafe3539</dc:identifier>
+    <dc:date>2018-08-19T14:16:58Z</dc:date>
+    <target>
+      <fragment start="OPS/body3.xhtml#point(/1/2/30/1/1:572)" end="OPS/body3.xhtml#point(/1/2/30/1/1:574)" progress="0">
+      <text>to</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T14:16:58Z</dc:date>
+      <text>Repetition</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:934e5682-3469-4033-a523-9249c2b0aaea</dc:identifier>
+    <dc:date>2018-08-20T05:40:27Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/128/1/1:186)" end="OPS/body4.xhtml#point(/1/2/128/1/1:198)" progress="0">
+      <text>the archives</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:40:27Z</dc:date>
+      <text>Repetition</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:08e44339-6062-4261-a064-b1d55c982bf4</dc:identifier>
+    <dc:date>2018-08-20T07:25:04Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/162/1/6:1856)" end="OPS/body4.xhtml#point(/1/2/162/1/6:1878)" progress="0">
+      <text>ugely important person</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T07:25:04Z</dc:date>
+      <text>Maybe describe her role a bit more in detail?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:4dd7f613-0c9a-443d-8658-dfe0f15b3641</dc:identifier>
+    <dc:date>2018-08-20T06:58:10Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/158/1/2:768)" end="OPS/body4.xhtml#point(/1/2/158/1/2:780)" progress="0">
+      <text>information.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:58:10Z</dc:date>
+      <text>Repetition. Following occursnces highlited.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:eb421d5e-25ec-49ca-a35e-541ca95d14db</dc:identifier>
+    <dc:date>2018-08-19T14:32:30Z</dc:date>
+    <target>
+      <fragment start="OPS/body3.xhtml#point(/1/2/100/1/1:406)" end="OPS/body3.xhtml#point(/1/2/100/1/1:412)" progress="0">
+      <text>saying</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T14:32:45Z</dc:date>
+      <text>Repeat of saying</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:5171362d-3af1-4483-88b1-59ad0be25132</dc:identifier>
+    <dc:date>2018-08-19T14:14:21Z</dc:date>
+    <target>
+      <fragment start="OPS/body3.xhtml#point(/1/2/20/1/1:300)" end="OPS/body3.xhtml#point(/1/2/20/1/1:303)" progress="0">
+      <text>the</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T14:14:21Z</dc:date>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:80330649-ab67-4c24-bd3c-334a66b71d60</dc:identifier>
+    <dc:date>2018-08-20T08:19:09Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/166/3/1:269)" end="OPS/body4.xhtml#point(/1/2/166/3/1:287)" progress="0">
+      <text>destroy the world </text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T08:22:25Z</dc:date>
+      <text>Why would someone want to destroy the world call themselves the voice of reason?
+
+Also you present this as a fact, where it should probably be the view/beliefs of a character. And there should be means to contest that belief, since their goals are unclear. Mayb introduce their goals through propaganda?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:28014c54-e615-4e26-9f2b-59e5f685e5e3</dc:identifier>
+    <dc:date>2018-08-20T07:09:29Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/162/1/4:893)" end="OPS/body4.xhtml#point(/1/2/162/1/4:896)" progress="0">
+      <text>it,</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T07:09:29Z</dc:date>
+      <text>Too many 'it's without first introducing what the 'it' relates to. It remains understandable, but harms the reading flow.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:0297f93a-7e71-4fdb-bd17-60887a64bb93</dc:identifier>
+    <dc:date>2018-08-20T13:41:00Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/22/1/2:1182)" end="OPS/body5.xhtml#point(/1/2/22/1/2:1186)" progress="0">
+      <text>him.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T13:41:00Z</dc:date>
+      <text>Her</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:fee78f7d-47a7-48c4-b66c-419460027b47</dc:identifier>
+    <dc:date>2018-08-20T07:34:12Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/162/1/6:2645)" end="OPS/body4.xhtml#point(/1/2/162/1/6:2652)" progress="0">
+      <text>greeted</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T07:34:12Z</dc:date>
+      <text>'introduced'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:47461f98-e0c7-4f80-a85d-6bda94cd5e63</dc:identifier>
+    <dc:date>2018-08-20T13:06:30Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/16/1/6:504)" end="OPS/body5.xhtml#point(/1/2/16/1/6:508)" progress="0">
+      <text>wás</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T13:06:30Z</dc:date>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:bdb65f78-57de-4472-a542-e13c78e825d3</dc:identifier>
+    <dc:date>2018-08-19T15:20:07Z</dc:date>
+    <target>
+      <fragment start="OPS/body3.xhtml#point(/1/2/222/1/1:176)" end="OPS/body3.xhtml#point(/1/2/222/1/1:255)" progress="0">
+      <text>This meant that if I wanted to have a chance at doing finishing the experiment,</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T15:20:36Z</dc:date>
+      <text>Grammer, difficult to grasp</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:0635297b-bc7b-4122-be33-f9f5b1fe4aba</dc:identifier>
+    <dc:date>2018-08-20T05:31:45Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/118/1/1:243)" end="OPS/body4.xhtml#point(/1/2/118/1/1:248)" progress="0">
+      <text>ready</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:31:45Z</dc:date>
+      <text>'able'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:977a14ea-5f2b-4652-9b75-599813d57bd8</dc:identifier>
+    <dc:date>2018-08-19T18:35:19Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/96/1/1:588)" end="OPS/body4.xhtml#point(/1/2/96/1/1:609)" progress="0">
+      <text>s we were doing this,</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T18:35:19Z</dc:date>
+      <text>Wording. Combine with previous sentence?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:54502126-5908-4f9e-8c97-d0e5bfa45e86</dc:identifier>
+    <dc:date>2018-08-19T14:14:08Z</dc:date>
+    <target>
+      <fragment start="OPS/body3.xhtml#point(/1/2/20/1/1:215)" end="OPS/body3.xhtml#point(/1/2/20/1/1:226)" progress="0">
+      <text>surrounding</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T14:14:08Z</dc:date>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:7da47436-7732-4dea-9880-1c9c331a48d8</dc:identifier>
+    <dc:date>2018-08-20T05:28:31Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/116/1/1:702)" end="OPS/body4.xhtml#point(/1/2/116/1/1:831)" progress="0">
+      <text>And, since I wasn’t added to the Council because of skills, but rather, because my shard has a right to have one representative</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:28:31Z</dc:date>
+      <text>This sentence doesn't go anywhere and either needs to merge with the previous one or be restructured</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:169eefaf-a57a-462d-af36-08db67162646</dc:identifier>
+    <dc:date>2018-08-20T13:45:11Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/22/2/1:21)" end="OPS/body5.xhtml#point(/1/2/22/5/1:1)" progress="0">
+      <text>or the Voice..</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T13:45:58Z</dc:date>
+      <text>I'd just introduce the long form, the short form will then be obvious.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:041db921-bf2b-4949-956f-2f4d67f2e037</dc:identifier>
+    <dc:date>2018-08-20T06:13:16Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/144/1/1:497)" end="OPS/body4.xhtml#point(/1/2/144/1/1:510)" progress="0">
+      <text>almost always</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:13:43Z</dc:date>
+      <text>Wrong place. Maybe remove entirely?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:db2033b0-f16b-4105-adc7-42b7104a4cec</dc:identifier>
+    <dc:date>2018-08-20T15:54:30Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/24/1/10:169)" end="OPS/body5.xhtml#point(/1/2/24/1/10:174)" progress="0">
+      <text>to us</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T15:54:30Z</dc:date>
+      <text>Move behind 'explained'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:c260cac5-5172-4596-8660-addadf2ced6b</dc:identifier>
+    <dc:date>2018-08-20T05:40:15Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/128/1/1:200)" end="OPS/body4.xhtml#point(/1/2/128/1/1:212)" progress="0">
+      <text>The archives</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:40:15Z</dc:date>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:c7bd5e38-6f39-448c-91de-582bfe3ab5ae</dc:identifier>
+    <dc:date>2018-08-19T18:38:24Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/104/1/1:66)" end="OPS/body4.xhtml#point(/1/2/104/1/1:71)" progress="0">
+      <text>quite</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T18:38:24Z</dc:date>
+      <text>Repetition</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:1c8ae91d-bfd1-4a0a-aad6-e684e3a29798</dc:identifier>
+    <dc:date>2018-08-20T05:08:25Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/108/1/1:288)" end="OPS/body4.xhtml#point(/1/2/108/1/1:291)" progress="0">
+      <text>in </text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:08:25Z</dc:date>
+      <text>'on it' or 'inhabiting it' sounds better</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:85f092df-810a-42b8-adb4-c2317347b430</dc:identifier>
+    <dc:date>2018-08-20T13:02:00Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/10/1/1:371)" end="OPS/body5.xhtml#point(/1/2/10/1/1:441)" progress="0">
+      <text>It seemed that, in general, people got a lot more time for themselves.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T13:02:00Z</dc:date>
+      <text>That shouldn't be the case. At least not in the first half year after the disaster, since a lot of things that relied on electricity now need to be done manually.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:535ac480-8721-4516-a261-45c0c858acf8</dc:identifier>
+    <dc:date>2018-08-20T06:42:38Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/152/1/1:125)" end="OPS/body4.xhtml#point(/1/2/152/1/1:143)" progress="0">
+      <text>nothing noteworthy</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:42:38Z</dc:date>
+      <text>But what did she write down, then?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:798f6b7d-3db6-41a9-b673-988a9b9cacc9</dc:identifier>
+    <dc:date>2018-08-20T15:50:19Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/24/1/8:528)" end="OPS/body5.xhtml#point(/1/2/24/1/8:677)" progress="0">
+      <text>We talked to workers of the cable cars, and they agreed to letting us use the messages they use to transfer information on the workings of the system</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T15:50:19Z</dc:date>
+      <text>This sentence makes no sense in its current fom. Reword to make more readable.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:0220221b-dc8b-4d2f-96d4-b9da83ec9b93</dc:identifier>
+    <dc:date>2018-08-20T05:37:02Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/126/1/1:280)" end="OPS/body4.xhtml#point(/1/2/126/1/1:294)" progress="0">
+      <text>my thought is </text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:37:26Z</dc:date>
+      <text>' through my head was' ?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:ca93767c-14ad-46a1-9003-074984e6ab81</dc:identifier>
+    <dc:date>2018-08-19T18:18:25Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/76/1/1:137)" end="OPS/body4.xhtml#point(/1/2/76/1/1:182)" progress="0">
+      <text>feeling of wonder to feel fear at this point.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T18:19:58Z</dc:date>
+      <text>This doesn't line up with what he says about being scared above and below this line. Relevant lines marked above and below.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:25a2d172-6168-44b2-9d49-8217811645d0</dc:identifier>
+    <dc:date>2018-08-20T08:26:40Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/166/3/1:405)" end="OPS/body4.xhtml#point(/1/2/166/3/1:433)" progress="0">
+      <text>can’t argue it’s results</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T08:26:40Z</dc:date>
+      <text>Why can't you? Apparently they can to the point where they set off a bomb to make themselves heard.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:d419bfc8-2e4b-400d-b323-bd2a4388b278</dc:identifier>
+    <dc:date>2018-08-19T17:47:30Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/26/1/1:402)" end="OPS/body4.xhtml#point(/1/2/26/1/1:429)" progress="0">
+      <text> hated writing these pieces</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T17:47:30Z</dc:date>
+      <text>Repetition</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:f450f581-88fd-49a7-a164-bc0527094a48</dc:identifier>
+    <dc:date>2018-08-19T14:35:11Z</dc:date>
+    <target>
+      <fragment start="OPS/body3.xhtml#point(/1/2/108/1/1:598)" end="OPS/body3.xhtml#point(/1/2/108/1/1:607)" progress="0">
+      <text>happened.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T14:35:11Z</dc:date>
+      <text>Thid might need to be spaced out a little more.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:5c8d88da-7fd1-4ca1-946e-fb34a1e1c734</dc:identifier>
+    <dc:date>2018-08-20T06:54:20Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/156/1/1:1072)" end="OPS/body4.xhtml#point(/1/2/156/1/1:1091)" progress="0">
+      <text>communications were</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:54:34Z</dc:date>
+      <text>Singular</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:c3eb13b5-2cc9-494a-a021-f66283c93a5e</dc:identifier>
+    <dc:date>2018-08-19T18:02:06Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/52/1/1:158)" end="OPS/body4.xhtml#point(/1/2/52/1/1:161)" progress="0">
+      <text>it </text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T18:02:06Z</dc:date>
+      <text>it without a subject again. Use Things or Circumstances. This i 'street-english' so to speak.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:c19a7f09-aa00-4330-9999-c35b1bef3088</dc:identifier>
+    <dc:date>2018-08-20T05:31:13Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/118/1/1:97)" end="OPS/body4.xhtml#point(/1/2/118/1/1:182)" progress="0">
+      <text>ere was something in her voice that made you feel uncomfortable, without knowing why.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:31:13Z</dc:date>
+      <text>This is what i meant earler, when I said you should describe why a person seems to have a certain trait.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:e9bd893d-d8fc-4a64-91fe-6af4e1e07f55</dc:identifier>
+    <dc:date>2018-08-20T16:31:32Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/24/3/1:1867)" end="OPS/body5.xhtml#point(/1/2/24/3/1:1943)" progress="0">
+      <text>random electromagnetic field, making most electric communications impossible</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T16:31:32Z</dc:date>
+      <text>How is radio thn possible?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:f9595936-a1bb-4f63-985a-19a2f93b42fe</dc:identifier>
+    <dc:date>2018-08-19T14:42:49Z</dc:date>
+    <target>
+      <fragment start="OPS/body3.xhtml#point(/1/2/122/1/1:85)" end="OPS/body3.xhtml#point(/1/2/122/1/1:104)" progress="0">
+      <text> a few months later</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T14:42:49Z</dc:date>
+      <text>Repetition</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:e79a298f-1262-4d86-ad3f-6b8ccfff8889</dc:identifier>
+    <dc:date>2018-08-20T07:51:45Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/162/1/6:3723)" end="OPS/body4.xhtml#point(/1/2/162/1/6:3846)" progress="0">
+      <text>She said that it was rare for people to be honest and open about their opinions in her vicinity, because people feared her.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T07:51:45Z</dc:date>
+      <text>Why would she just say that without even knowing if Violet had been open. She only knows that Violet wasn't afraid to share a comtroversal idea.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:9918feb0-daca-42f1-b74e-c53355450259</dc:identifier>
+    <dc:date>2018-08-20T16:04:29Z</dc:date>
+    <target>
+      <fragment start="OPS/body5.xhtml#point(/1/2/24/1/16:498)" end="OPS/body5.xhtml#point(/1/2/24/1/16:506)" progress="0">
+      <text>defended</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T16:04:29Z</dc:date>
+      <text>Remove</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:b38e7eff-6759-4191-9931-d0e94938b394</dc:identifier>
+    <dc:date>2018-08-19T17:50:18Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/28/1/1:111)" end="OPS/body4.xhtml#point(/1/2/28/1/1:115)" progress="0">
+      <text>It f</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T17:50:18Z</dc:date>
+      <text>Replace with 'I' or 'Things'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:687f3f05-dfa3-408e-8f24-723b40da83b7</dc:identifier>
+    <dc:date>2018-08-19T18:29:22Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/88/1/1:294)" end="OPS/body4.xhtml#point(/1/2/88/1/1:299)" progress="0">
+      <text>even.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-19T18:30:41Z</dc:date>
+      <text>'even' at the end of a sentence is slang and not proper english afaik. I will now just add the note slang, if I doubt that a book should contain this kind of wordings or grammer.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:fda7df90-b384-44cc-9788-8cea8eb435c6</dc:identifier>
+    <dc:date>2018-08-20T06:04:14Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/140/1/1:1021)" end="OPS/body4.xhtml#point(/1/2/140/1/1:1031)" progress="0">
+      <text>working on</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:04:14Z</dc:date>
+      <text>Remove this. It says the same as the two words before this.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:7f2210dd-ed88-412d-afaa-390f35e225f6</dc:identifier>
+    <dc:date>2018-08-20T07:13:23Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/162/1/4:1671)" end="OPS/body4.xhtml#point(/1/2/162/1/4:1689)" progress="0">
+      <text>Stephen d’Moire </text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T07:13:23Z</dc:date>
+      <text>Isn't he the guy from chapter one who should be stuck on a shard in the storm for like 20 more years or so?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:2952d9f4-2b86-46b2-93f1-87591ef9ca98</dc:identifier>
+    <dc:date>2018-08-20T05:44:41Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/128/1/1:1058)" end="OPS/body4.xhtml#point(/1/2/128/1/1:1089)" progress="0">
+      <text>makeshift computer-like system.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:44:41Z</dc:date>
+      <text>Explain? I feel like science fiction is owed at least a brief explaination of the system here ;)</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:46f7b25d-69f4-4cdf-b5ae-9c12ef1d5fc0</dc:identifier>
+    <dc:date>2018-08-20T06:49:23Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/156/1/1:274)" end="OPS/body4.xhtml#point(/1/2/156/1/1:284)" progress="0">
+      <text>of course </text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:49:23Z</dc:date>
+      <text>Where are yo' commas at? ;)</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:6d87091d-dab2-4080-be9f-6036a4c12ab5</dc:identifier>
+    <dc:date>2018-08-20T06:58:22Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/158/1/2:925)" end="OPS/body4.xhtml#point(/1/2/158/1/2:937)" progress="0">
+      <text>information.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T06:58:22Z</dc:date>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:af117a8d-c504-4a13-96f2-d63a3b97b2c9</dc:identifier>
+    <dc:date>2018-08-20T05:26:23Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/116/1/1:591)" end="OPS/body4.xhtml#point(/1/2/116/1/1:606)" progress="0">
+      <text>hundred percent</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:26:23Z</dc:date>
+      <text>Replace with 'completely' or 'entirely'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:23d2b0c6-003f-46da-8ba5-147465fb3cd1</dc:identifier>
+    <dc:date>2018-08-20T05:35:21Z</dc:date>
+    <target>
+      <fragment start="OPS/body4.xhtml#point(/1/2/126/1/1:2)" end="OPS/body4.xhtml#point(/1/2/126/1/1:127)" progress="0">
+      <text>was asked if I had brought new clothes with me. When I answered I only took the minimal amount of required clothing with me, </text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-20T05:35:21Z</dc:date>
+      <text>Turn into actual dialogue</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:3d1fba55-7bb9-4fcb-8130-a0ae91210753</dc:identifier>
+    <dc:date>2018-08-21T09:36:37Z</dc:date>
+    <target>
+      <fragment start="OPS/body6.xhtml#point(/1/2/4/2/3:18)" end="OPS/body6.xhtml#point(/1/2/4/2/3:52)" progress="0.52">
+      <text>partially practical, and partially</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T09:36:37Z</dc:date>
+      <text>Too complicated for smooth reading. Repetition.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:5890ce5a-ec6f-448b-9067-d42788106717</dc:identifier>
+    <dc:date>2018-08-21T09:37:24Z</dc:date>
+    <target>
+      <fragment start="OPS/body6.xhtml#point(/1/2/4/2/3:525)" end="OPS/body6.xhtml#point(/1/2/4/2/3:529)" progress="0.52">
+      <text>know</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T09:37:24Z</dc:date>
+      <text>'knew'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:e1dd1f1d-e836-4ebb-ba8a-66a506e0a5d3</dc:identifier>
+    <dc:date>2018-08-21T09:39:50Z</dc:date>
+    <target>
+      <fragment start="OPS/body6.xhtml#point(/1/2/4/2/5:258)" end="OPS/body6.xhtml#point(/1/2/4/2/5:334)" progress="0.52">
+      <text>who is my dad?’, to “if there’s a god, why is the world like this?”.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T09:39:50Z</dc:date>
+      <text>Use the same quotes and dtick with them.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:2e269f2d-cb77-426c-ad39-48eeb3a5a855</dc:identifier>
+    <dc:date>2018-08-21T09:40:28Z</dc:date>
+    <target>
+      <fragment start="OPS/body6.xhtml#point(/1/2/4/2/5:459)" end="OPS/body6.xhtml#point(/1/2/4/2/5:471)" progress="0.52">
+      <text>have answers</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T09:40:28Z</dc:date>
+      <text>Repetition. 'know'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:f91d5174-d903-4511-981d-e9195560e1dd</dc:identifier>
+    <dc:date>2018-08-21T09:47:52Z</dc:date>
+    <target>
+      <fragment start="OPS/body6.xhtml#point(/1/2/4/2/9:208)" end="OPS/body6.xhtml#point(/1/2/4/2/9:217)" progress="0.53">
+      <text>expecting</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T09:47:52Z</dc:date>
+      <text>Repetition.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:81f8277b-2b57-425b-bfcd-3210d2a354bb</dc:identifier>
+    <dc:date>2018-08-21T09:48:00Z</dc:date>
+    <target>
+      <fragment start="OPS/body6.xhtml#point(/1/2/4/2/9:168)" end="OPS/body6.xhtml#point(/1/2/4/2/9:176)" progress="0.53">
+      <text>expected</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T09:48:00Z</dc:date>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:1a4062a6-00d8-4133-832e-b60692bb628e</dc:identifier>
+    <dc:date>2018-08-21T09:54:36Z</dc:date>
+    <target>
+      <fragment start="OPS/body6.xhtml#point(/1/2/4/4/5:62)" end="OPS/body6.xhtml#point(/1/2/4/4/5:65)" progress="0.55">
+      <text>hit</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T09:54:36Z</dc:date>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:5c1bb5bd-4c45-4901-b552-7cf360f653ee</dc:identifier>
+    <dc:date>2018-08-21T09:59:55Z</dc:date>
+    <target>
+      <fragment start="OPS/body7.xhtml#point(/1/2/2/3/1:293)" end="OPS/body7.xhtml#point(/1/2/2/3/1:319)" progress="0.56">
+      <text>it had with when I woke up</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T09:59:55Z</dc:date>
+      <text>Something is wrong here. This doesn't sound like a correct sentene.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:2dc735d1-b0c6-4a2f-a01e-20fcf1bc4862</dc:identifier>
+    <dc:date>2018-08-21T10:07:38Z</dc:date>
+    <target>
+      <fragment start="OPS/body7.xhtml#point(/1/2/4/1/4:6)" end="OPS/body7.xhtml#point(/1/2/4/1/4:22)" progress="0.56">
+      <text>surprised of him</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T10:07:38Z</dc:date>
+      <text>Grammer</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:45d2f45b-c8b7-4624-ab56-2090eb48672e</dc:identifier>
+    <dc:date>2018-08-21T10:08:05Z</dc:date>
+    <target>
+      <fragment start="OPS/body7.xhtml#point(/1/2/4/1/4:168)" end="OPS/body7.xhtml#point(/1/2/4/1/4:171)" progress="0.56">
+      <text>hi.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T10:08:05Z</dc:date>
+      <text>Quotes</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:8ed03a26-7688-438b-bf68-1ffed127def4</dc:identifier>
+    <dc:date>2018-08-21T10:09:46Z</dc:date>
+    <target>
+      <fragment start="OPS/body7.xhtml#point(/1/2/4/1/7:76)" end="OPS/body7.xhtml#point(/1/2/4/1/7:80)" progress="0.56">
+      <text>know</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T10:09:46Z</dc:date>
+      <text>'knew' since its in the past. Or spolit theentire thing into 'As was I.'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:6358a3c4-c326-4bb2-8974-413450792ec8</dc:identifier>
+    <dc:date>2018-08-21T10:19:01Z</dc:date>
+    <target>
+      <fragment start="OPS/body7.xhtml#point(/1/2/8/6/1:125)" end="OPS/body7.xhtml#point(/1/2/8/6/1:144)" progress="0.59">
+      <text>was actually proved</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T10:19:01Z</dc:date>
+      <text>Grammer.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:4994db48-489d-4f0f-a2a5-dde8f6bbae6d</dc:identifier>
+    <dc:date>2018-08-21T10:25:39Z</dc:date>
+    <target>
+      <fragment start="OPS/body7.xhtml#point(/1/2/14/2/1:18)" end="OPS/body7.xhtml#point(/1/2/14/2/1:21)" progress="0.6">
+      <text>his</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T10:25:39Z</dc:date>
+      <text>This is a different perspective, so if you want it to actually seem like they are not the same person (you, the writer) then you need to re-establish things like who the letter came from.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:d8c91d03-64f7-45b9-b434-af777becc696</dc:identifier>
+    <dc:date>2018-08-21T10:29:34Z</dc:date>
+    <target>
+      <fragment start="OPS/body7.xhtml#point(/1/2/14/3/1:1260)" end="OPS/body7.xhtml#point(/1/2/14/3/1:1331)" progress="0.61">
+      <text>I stayed silent as his head rolled off, and the crowd started to cheer.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T10:29:34Z</dc:date>
+      <text>It might have a greater effect to not describe what happens, but everything around it. Like in Brave new World etc.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:dee91dbd-8c52-45ce-b5ce-8c55d7f7116c</dc:identifier>
+    <dc:date>2018-08-21T10:33:14Z</dc:date>
+    <target>
+      <fragment start="OPS/body7.xhtml#point(/1/2/16/3/1:617)" end="OPS/body7.xhtml#point(/1/2/16/3/1:741)" progress="0.62">
+      <text>a friend of William is a friend of mine, join me for a drink after closing time, and then you can explain to me who you are.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T10:33:23Z</dc:date>
+      <text>Quotes</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:6b61537e-fb23-4a39-8a19-2646dddc3c59</dc:identifier>
+    <dc:date>2018-08-21T11:38:46Z</dc:date>
+    <target>
+      <fragment start="OPS/body8.xhtml#point(/1/2/2/5/1:718)" end="OPS/body8.xhtml#point(/1/2/2/5/1:722)" progress="0.65">
+      <text>have</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T11:38:46Z</dc:date>
+      <text>'have hd'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:89012f9f-8996-4aaa-8c1a-fe274721f733</dc:identifier>
+    <dc:date>2018-08-21T11:39:53Z</dc:date>
+    <target>
+      <fragment start="OPS/body8.xhtml#point(/1/2/2/5/1:1133)" end="OPS/body8.xhtml#point(/1/2/2/5/1:1141)" progress="0.65">
+      <text>chances.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T11:39:53Z</dc:date>
+      <text>Singular?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:2ac5b6ec-3b9c-4f9b-bdea-0f347ed24515</dc:identifier>
+    <dc:date>2018-08-21T11:59:14Z</dc:date>
+    <target>
+      <fragment start="OPS/body8.xhtml#point(/1/2/2/5/9:329)" end="OPS/body8.xhtml#point(/1/2/2/5/9:347)" progress="0.66">
+      <text>keep into account.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T11:59:14Z</dc:date>
+      <text>I don't think that is a vaild expression. 'keep and eye on' or 'still take into account'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:6fad817d-ba11-447e-a832-2afdc853f29c</dc:identifier>
+    <dc:date>2018-08-21T12:27:03Z</dc:date>
+    <target>
+      <fragment start="OPS/body8.xhtml#point(/1/2/12/4/6:732)" end="OPS/body8.xhtml#point(/1/2/12/4/6:736)" progress="0.69">
+      <text>give</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T12:27:03Z</dc:date>
+      <text>'turn'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:93c4cd11-e389-4185-af14-d5f8e004d74e</dc:identifier>
+    <dc:date>2018-08-21T12:34:16Z</dc:date>
+    <target>
+      <fragment start="OPS/body8.xhtml#point(/1/2/14/1/4:145)" end="OPS/body8.xhtml#point(/1/2/14/1/4:153)" progress="0.7">
+      <text>secretly</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T12:34:16Z</dc:date>
+      <text>Gravety can't be secret... I'd suggest somthing like 'unnoticibly' or something better</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:4726b384-3f9b-42e5-a845-005a68be674c</dc:identifier>
+    <dc:date>2018-08-21T12:39:34Z</dc:date>
+    <target>
+      <fragment start="OPS/body8.xhtml#point(/1/2/14/1/4:1214)" end="OPS/body8.xhtml#point(/1/2/14/1/4:1217)" progress="0.7">
+      <text> at</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T12:39:34Z</dc:date>
+      <text>'sat'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:c51ada02-8a49-47f9-9fd6-821c517094b5</dc:identifier>
+    <dc:date>2018-08-21T13:03:21Z</dc:date>
+    <target>
+      <fragment start="OPS/body8.xhtml#point(/1/2/14/1/15:5577)" end="OPS/body8.xhtml#point(/1/2/14/1/15:5592)" progress="0.74">
+      <text>railway nerd’</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T13:03:21Z</dc:date>
+      <text>Give him a name and introduce him as a character, please</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:11dcd3cd-5da5-4bc5-b160-39fd16d15a25</dc:identifier>
+    <dc:date>2018-08-21T13:06:19Z</dc:date>
+    <target>
+      <fragment start="OPS/body8.xhtml#point(/1/2/14/1/17:1678)" end="OPS/body8.xhtml#point(/1/2/14/1/17:1698)" progress="0.74">
+      <text>inding any struggle.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T13:06:19Z</dc:date>
+      <text>'meeting any resistance'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:d166e75a-4001-4f1a-b6e3-83def2485a7e</dc:identifier>
+    <dc:date>2018-08-21T13:25:21Z</dc:date>
+    <target>
+      <fragment start="OPS/body8.xhtml#point(/1/2/14/1/17:4714)" end="OPS/body8.xhtml#point(/1/2/14/1/17:4717)" progress="0.75">
+      <text>our</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T13:25:21Z</dc:date>
+      <text>'the'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:63321229-c87b-4ec5-af04-c8a612ea3a05</dc:identifier>
+    <dc:date>2018-08-21T13:25:42Z</dc:date>
+    <target>
+      <fragment start="OPS/body8.xhtml#point(/1/2/14/1/17:4729)" end="OPS/body8.xhtml#point(/1/2/14/1/17:4738)" progress="0.75">
+      <text> our own.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T13:25:42Z</dc:date>
+      <text>'ourselves'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:60bb025e-15bf-42d9-9f30-8b6c9120011b</dc:identifier>
+    <dc:date>2018-08-21T15:08:11Z</dc:date>
+    <target>
+      <fragment start="OPS/body8.xhtml#point(/1/2/14/1/22:1199)" end="OPS/body8.xhtml#point(/1/2/14/1/22:1203)" progress="0.77">
+      <text>give</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T15:08:11Z</dc:date>
+      <text>'turn'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:2dab067c-0a28-48c7-921a-cda2badd1dee</dc:identifier>
+    <dc:date>2018-08-21T15:20:40Z</dc:date>
+    <target>
+      <fragment start="OPS/body8.xhtml#point(/1/2/14/1/22:1869)" end="OPS/body8.xhtml#point(/1/2/14/1/22:1874)" progress="0.77">
+      <text>stay </text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T15:20:40Z</dc:date>
+      <text>'lay'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:435993e8-b4d3-4c1e-9440-7c161233c68f</dc:identifier>
+    <dc:date>2018-08-21T15:23:26Z</dc:date>
+    <target>
+      <fragment start="OPS/body8.xhtml#point(/1/2/14/1/22:2247)" end="OPS/body8.xhtml#point(/1/2/14/1/22:2255)" progress="0.77">
+      <text>lay low </text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T15:23:26Z</dc:date>
+      <text>Repetition</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:5ad0c09f-bc2a-4ac2-9c6d-82b674526db6</dc:identifier>
+    <dc:date>2018-08-21T16:31:57Z</dc:date>
+    <target>
+      <fragment start="OPS/body8.xhtml#point(/1/2/14/1/22:5331)" end="OPS/body8.xhtml#point(/1/2/14/1/22:5334)" progress="0.78">
+      <text>yet</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T16:31:57Z</dc:date>
+      <text>Move to the back of subsentence.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:e90c2e5f-8eba-4502-b150-84e5f5f0d52f</dc:identifier>
+    <dc:date>2018-08-21T16:50:15Z</dc:date>
+    <target>
+      <fragment start="OPS/body9.xhtml#point(/1/2/2/3/1:1744)" end="OPS/body9.xhtml#point(/1/2/2/3/1:1751)" progress="0.8">
+      <text>between</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T16:50:15Z</dc:date>
+      <text>'under'?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:7136abd8-1267-48a2-a76a-f604a9d557c3</dc:identifier>
+    <dc:date>2018-08-21T16:55:02Z</dc:date>
+    <target>
+      <fragment start="OPS/body9.xhtml#point(/1/2/2/3/1:2227)" end="OPS/body9.xhtml#point(/1/2/2/3/1:2231)" progress="0.8">
+      <text>name</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T16:55:02Z</dc:date>
+      <text>Which name?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:4dc6d790-5981-4820-819e-7badad469324</dc:identifier>
+    <dc:date>2018-08-21T17:10:59Z</dc:date>
+    <target>
+      <fragment start="OPS/body9.xhtml#point(/1/2/2/3/3:952)" end="OPS/body9.xhtml#point(/1/2/2/3/3:957)" progress="0.8">
+      <text>. …</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T17:10:59Z</dc:date>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:d79a982e-3f3f-4cc8-a994-b60ef809d0df</dc:identifier>
+    <dc:date>2018-08-21T17:36:39Z</dc:date>
+    <target>
+      <fragment start="OPS/body9.xhtml#point(/1/2/2/3/3:1568)" end="OPS/body9.xhtml#point(/1/2/2/3/3:1572)" progress="0.81">
+      <text>… </text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T17:36:39Z</dc:date>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:09fda241-224f-49f8-8843-e1f0e43a8336</dc:identifier>
+    <dc:date>2018-08-21T17:37:20Z</dc:date>
+    <target>
+      <fragment start="OPS/body9.xhtml#point(/1/2/2/3/3:2105)" end="OPS/body9.xhtml#point(/1/2/2/3/3:2172)" progress="0.81">
+      <text>because I’m powerful to the point where I might as well be a god.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T17:37:20Z</dc:date>
+      <text>Quotes</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:d72c89d1-ee7c-4b8e-bb36-691a837b5a50</dc:identifier>
+    <dc:date>2018-08-21T17:39:17Z</dc:date>
+    <target>
+      <fragment start="OPS/body9.xhtml#point(/1/2/2/3/3:2458)" end="OPS/body9.xhtml#point(/1/2/2/3/3:2466)" progress="0.81">
+      <text>t, and, </text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T17:39:17Z</dc:date>
+      <text>Just no...</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:e94ac321-1a4f-4a7e-80c5-ec41758f0ba2</dc:identifier>
+    <dc:date>2018-08-21T17:40:29Z</dc:date>
+    <target>
+      <fragment start="OPS/body9.xhtml#point(/1/2/2/3/3:2668)" end="OPS/body9.xhtml#point(/1/2/2/3/3:2680)" progress="0.81">
+      <text> woke up in </text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T17:40:29Z</dc:date>
+      <text>Repetition</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:ff65f994-1558-4367-ba05-a58351f059e0</dc:identifier>
+    <dc:date>2018-08-21T17:49:59Z</dc:date>
+    <target>
+      <fragment start="OPS/body9.xhtml#point(/1/2/2/3/9:243)" end="OPS/body9.xhtml#point(/1/2/2/3/9:248)" progress="0.82">
+      <text>Eric </text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T17:49:59Z</dc:date>
+      <text>Backport name to previously highlited locations.</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:c4c6d8b9-c899-4aa3-8565-6f10cc0073a4</dc:identifier>
+    <dc:date>2018-08-21T17:54:12Z</dc:date>
+    <target>
+      <fragment start="OPS/body9.xhtml#point(/1/2/2/3/9:2644)" end="OPS/body9.xhtml#point(/1/2/2/3/9:2646)" progress="0.83">
+      <text>on</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T17:54:12Z</dc:date>
+      <text>'at'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:03985eea-f086-4950-9c37-0cff654bd8f5</dc:identifier>
+    <dc:date>2018-08-21T17:56:43Z</dc:date>
+    <target>
+      <fragment start="OPS/body9.xhtml#point(/1/2/2/3/13:871)" end="OPS/body9.xhtml#point(/1/2/2/3/13:874)" progress="0.84">
+      <text>for</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T17:56:43Z</dc:date>
+      <text>'of'?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:ba4a3d37-d827-4c7a-8190-4730479e58f3</dc:identifier>
+    <dc:date>2018-08-21T17:58:18Z</dc:date>
+    <target>
+      <fragment start="OPS/body9.xhtml#point(/1/2/2/3/13:1636)" end="OPS/body9.xhtml#point(/1/2/2/3/13:1661)" progress="0.85">
+      <text>the power of the Council.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T17:58:18Z</dc:date>
+      <text>Repetition. 'their power'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:ede18152-c448-4055-86c1-f0e47367c815</dc:identifier>
+    <dc:date>2018-08-21T17:59:21Z</dc:date>
+    <target>
+      <fragment start="OPS/body9.xhtml#point(/1/2/2/3/16:956)" end="OPS/body9.xhtml#point(/1/2/2/3/16:965)" progress="0.85">
+      <text>my flight</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T17:59:21Z</dc:date>
+      <text>'it'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:a10acc4a-ad79-4fc6-823f-08f119845179</dc:identifier>
+    <dc:date>2018-08-21T18:05:23Z</dc:date>
+    <target>
+      <fragment start="OPS/body9.xhtml#point(/1/2/2/3/16:5328)" end="OPS/body9.xhtml#point(/1/2/2/3/16:5363)" progress="0.86">
+      <text>the window through the same window,</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T18:05:23Z</dc:date>
+      <text>Repetition</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:11ade50e-0fe2-4856-a9c2-df2e44263aa0</dc:identifier>
+    <dc:date>2018-08-21T18:12:15Z</dc:date>
+    <target>
+      <fragment start="OPS/body9.xhtml#point(/1/2/2/5/1:1303)" end="OPS/body9.xhtml#point(/1/2/2/5/1:1314)" progress="0.88">
+      <text>complicated</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T18:12:15Z</dc:date>
+      <text>'complete'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:946955dd-23d4-48ce-8ea1-9e5efce51407</dc:identifier>
+    <dc:date>2018-08-21T18:12:38Z</dc:date>
+    <target>
+      <fragment start="OPS/body9.xhtml#point(/1/2/2/5/1:1413)" end="OPS/body9.xhtml#point(/1/2/2/5/1:1419)" progress="0.88">
+      <text>above,</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T18:12:38Z</dc:date>
+      <text>'below'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:20808f9a-1d50-48f3-90f5-8172cf69b8a5</dc:identifier>
+    <dc:date>2018-08-21T18:15:24Z</dc:date>
+    <target>
+      <fragment start="OPS/body9.xhtml#point(/1/2/2/5/1:1787)" end="OPS/body9.xhtml#point(/1/2/2/5/1:1815)" progress="0.88">
+      <text>made me decide to be a hero.</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T18:15:24Z</dc:date>
+      <text>The description of th following evnts sounds quite weird. Maybe rework a bit?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:7064e5bf-aa1e-4e4c-8f5b-ed25f175eb4d</dc:identifier>
+    <dc:date>2018-08-21T18:22:06Z</dc:date>
+    <target>
+      <fragment start="OPS/body9.xhtml#point(/1/2/2/5/7:1403)" end="OPS/body9.xhtml#point(/1/2/2/5/7:1408)" progress="0.9">
+      <text>…, </text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T18:22:06Z</dc:date>
+      <text>Name</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:2b3cc9b0-fbe7-446c-9f82-c8b033917cc9</dc:identifier>
+    <dc:date>2018-08-21T18:28:50Z</dc:date>
+    <target>
+      <fragment start="OPS/body9.xhtml#point(/1/2/8/1/3:815)" end="OPS/body9.xhtml#point(/1/2/8/1/3:820)" progress="0.91">
+      <text>thát</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T18:28:50Z</dc:date>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:15d96644-fe62-463f-acc6-5ede2ae24232</dc:identifier>
+    <dc:date>2018-08-21T18:38:08Z</dc:date>
+    <target>
+      <fragment start="OPS/body10.xhtml#point(/1/2/2/3/3:882)" end="OPS/body10.xhtml#point(/1/2/2/3/3:893)" progress="0.94">
+      <text>the Entity,</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T18:38:08Z</dc:date>
+      <text>Not a storm?</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:e33da09b-37ff-4920-8998-b26e9b72a8d8</dc:identifier>
+    <dc:date>2018-08-21T18:42:56Z</dc:date>
+    <target>
+      <fragment start="OPS/body10.xhtml#point(/1/2/2/3/5:3856)" end="OPS/body10.xhtml#point(/1/2/2/3/5:3861)" progress="0.95">
+      <text>since</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T18:42:56Z</dc:date>
+      <text>'in'</text>
+    </content>
+  </annotation>
+  <annotation>
+    <dc:identifier>urn:uuid:d895eb8a-720d-4455-920e-7a931f43aed6</dc:identifier>
+    <dc:date>2018-08-21T18:51:49Z</dc:date>
+    <target>
+      <fragment start="OPS/body10.xhtml#point(/1/2/2/3/9:5799)" end="OPS/body10.xhtml#point(/1/2/2/3/9:5808)" progress="0.99">
+      <text>observing</text>
+      </fragment>
+    </target>
+    <content>
+      <dc:date>2018-08-21T18:51:49Z</dc:date>
+      <text>'watching'?</text>
+    </content>
+  </annotation>
+</annotationSet>

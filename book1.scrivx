@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="DESKTOP-G97BSK6" Modified="2018-05-28 19:36:33 +0200" ModID="69C8188E-711C-4E37-8D91-35682EA4CABA">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.8.0" Device="DESKTOP-G97BSK6" Modified="2018-09-06 15:24:37 +0200" ModID="8C2895BA-8344-4A0B-831C-E9DDC9038A0C">
     <Binder>
         <BinderItem ID="0" UUID="6A5B9C1E-49F4-4D4A-9878-728322BDFA2B" Created="2006-11-04 19:27:29 +0200" Modified="2017-11-05 21:18:31 +0200" Type="DraftFolder">
             <Title>Manuscript</Title>
@@ -21,11 +21,11 @@
                         <PageBreakBefore>Yes</PageBreakBefore>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>543,0</TextSelection>
+                        <TextSelection>640,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="6" UUID="291A5EB7-DA53-44DB-92CD-35229AA003DB" Created="2006-11-04 19:33:03 +0200" Modified="2018-05-28 19:36:32 +0200" Type="Text">
+                <BinderItem ID="6" UUID="291A5EB7-DA53-44DB-92CD-35229AA003DB" Created="2006-11-04 19:33:03 +0200" Modified="2018-09-06 15:23:16 +0200" Type="Text">
                     <Title>The World of an Outsider</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
@@ -35,7 +35,7 @@
                         <PageBreakBefore>Yes</PageBreakBefore>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>33,0</TextSelection>
+                        <TextSelection Caret="18510">17995,515</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
@@ -202,6 +202,13 @@
                         <TextSelection>1093,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
+                </BinderItem>
+                <BinderItem ID="60" UUID="53894EC2-3797-4D00-A337-061AB95E0EAD" Created="2018-09-06 13:17:08 +0200" Modified="2018-09-06 13:17:08 +0200" Type="Other">
+                    <Title>AManHisDogAndAFish.epub - Unknown</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>annot</FileExtension>
+                    </MetaData>
                 </BinderItem>
             </Children>
         </BinderItem>
@@ -556,7 +563,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">50000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">7000</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2018-05-28 19:22:46 +0200"/>
+        <PreviousSession Words="131" Characters="713" Date="2018-09-06 13:50:06 +0200"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
