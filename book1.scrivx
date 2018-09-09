@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.8.0" Device="DESKTOP-G97BSK6" Modified="2018-09-06 15:24:37 +0200" ModID="8C2895BA-8344-4A0B-831C-E9DDC9038A0C">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.8.0" Device="DESKTOP-G97BSK6" Modified="2018-09-09 19:48:24 +0200" ModID="5951AACC-C5DC-4314-9A82-C5EEA9E65660">
     <Binder>
         <BinderItem ID="0" UUID="6A5B9C1E-49F4-4D4A-9878-728322BDFA2B" Created="2006-11-04 19:27:29 +0200" Modified="2017-11-05 21:18:31 +0200" Type="DraftFolder">
             <Title>Manuscript</Title>
@@ -25,7 +25,7 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="6" UUID="291A5EB7-DA53-44DB-92CD-35229AA003DB" Created="2006-11-04 19:33:03 +0200" Modified="2018-09-06 15:23:16 +0200" Type="Text">
+                <BinderItem ID="6" UUID="291A5EB7-DA53-44DB-92CD-35229AA003DB" Created="2006-11-04 19:33:03 +0200" Modified="2018-09-07 23:39:36 +0200" Type="Text">
                     <Title>The World of an Outsider</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
@@ -35,7 +35,7 @@
                         <PageBreakBefore>Yes</PageBreakBefore>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection Caret="18510">17995,515</TextSelection>
+                        <TextSelection>46701,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
@@ -44,7 +44,7 @@
                         </CorkboardSettings>
                     </CorkboardAndOutliner>
                 </BinderItem>
-                <BinderItem ID="46" UUID="FDEDF6E9-3124-454F-862C-0948978DE0AC" Created="2017-11-05 02:22:48 +0200" Modified="2017-11-26 01:07:24 +0200" Type="Text">
+                <BinderItem ID="46" UUID="FDEDF6E9-3124-454F-862C-0948978DE0AC" Created="2017-11-05 02:22:48 +0200" Modified="2018-09-09 19:18:35 +0200" Type="Text">
                     <Title>Ignorance is Bliss</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -52,7 +52,7 @@
                         <PageBreakBefore>Yes</PageBreakBefore>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>6,0</TextSelection>
+                        <TextSelection Caret="32649">32648,1</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -359,6 +359,26 @@
                     <FreeformMode>Yes</FreeformMode>
                 </CorkboardSettings>
             </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="61" UUID="73117B8D-F54D-4601-B753-59EF97784F51" Created="2018-09-08 12:19:21 +0200" Modified="2018-09-08 12:19:23 +0200" Type="Text">
+                    <Title>Capital</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="62" UUID="DA8865F7-F061-4BCA-AAC2-FBED26FBFF16" Created="2018-09-08 12:19:26 +0200" Modified="2018-09-08 12:19:31 +0200" Type="Text">
+                    <Title>Confederacy of Places</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
         <BinderItem ID="1" UUID="4E440BDC-B30D-4B89-8CC6-915C71244EA6" Created="2006-11-04 19:27:29 +0200" Modified="2006-11-04 19:27:29 +0200" Type="ResearchFolder">
             <Title>Research</Title>
@@ -561,9 +581,9 @@
     </StatusSettings>
     <TemplateFolderUUID>0F62E5C2-41F2-41F7-B09A-AF381C34B686</TemplateFolderUUID>
     <ProjectTargets>
-        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">50000</DraftTarget>
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">55000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">7000</SessionTarget>
-        <PreviousSession Words="131" Characters="713" Date="2018-09-06 13:50:06 +0200"/>
+        <PreviousSession Words="137" Characters="711" Date="2018-09-09 19:14:56 +0200"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
