@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.8.0" Device="DESKTOP-G97BSK6" Modified="2018-09-09 22:18:31 +0200" ModID="B0B200B0-DAE4-41B3-9BD9-D8C497E1F618">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.8.0" Device="DESKTOP-G97BSK6" Modified="2018-09-10 22:25:05 +0200" ModID="6ED04CC5-F899-4A7C-85BD-C2EC224D343B">
     <Binder>
         <BinderItem ID="0" UUID="6A5B9C1E-49F4-4D4A-9878-728322BDFA2B" Created="2006-11-04 19:27:29 +0200" Modified="2017-11-05 21:18:31 +0200" Type="DraftFolder">
             <Title>Manuscript</Title>
@@ -35,7 +35,7 @@
                         <PageBreakBefore>Yes</PageBreakBefore>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>46701,0</TextSelection>
+                        <TextSelection Caret="33">25,8</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
@@ -68,7 +68,7 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="48" UUID="5DE83341-3735-4D14-9BD8-A7D0F659701A" Created="2017-11-08 18:58:17 +0200" Modified="2018-09-09 22:18:31 +0200" Type="Text">
+                <BinderItem ID="48" UUID="5DE83341-3735-4D14-9BD8-A7D0F659701A" Created="2017-11-08 18:58:17 +0200" Modified="2018-09-10 21:13:48 +0200" Type="Text">
                     <Title>Being Right</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -76,11 +76,11 @@
                         <PageBreakBefore>Yes</PageBreakBefore>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>4104,0</TextSelection>
+                        <TextSelection>10050,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="51" UUID="CCC484D7-1CF8-46A3-9217-05BA21B79422" Created="2017-11-10 22:51:04 +0200" Modified="2017-11-26 01:07:01 +0200" Type="Text">
+                <BinderItem ID="51" UUID="CCC484D7-1CF8-46A3-9217-05BA21B79422" Created="2017-11-10 22:51:04 +0200" Modified="2018-09-10 22:25:04 +0200" Type="Text">
                     <Title>Shared Stories</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -88,7 +88,7 @@
                         <PageBreakBefore>Yes</PageBreakBefore>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>16320,0</TextSelection>
+                        <TextSelection>6010,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -583,7 +583,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">55000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">7000</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2018-09-09 19:49:19 +0200"/>
+        <PreviousSession Words="2" Characters="55" Date="2018-09-10 21:05:39 +0200"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
