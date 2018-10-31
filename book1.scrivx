@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.8.0" Device="DESKTOP-G97BSK6" Modified="2018-09-16 22:47:20 +0200" ModID="410B780B-2177-4210-A23E-0B84193802A5">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.8.0" Device="DESKTOP-G97BSK6" Modified="2018-09-16 23:19:35 +0200" ModID="B225A200-FF3D-4C8B-8753-54CEDA8BEDEF">
     <Binder>
         <BinderItem ID="0" UUID="6A5B9C1E-49F4-4D4A-9878-728322BDFA2B" Created="2006-11-04 19:27:29 +0200" Modified="2017-11-05 21:18:31 +0200" Type="DraftFolder">
             <Title>Manuscript</Title>
@@ -25,7 +25,7 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="6" UUID="291A5EB7-DA53-44DB-92CD-35229AA003DB" Created="2006-11-04 19:33:03 +0200" Modified="2018-09-16 22:46:08 +0200" Type="Text">
+                <BinderItem ID="6" UUID="291A5EB7-DA53-44DB-92CD-35229AA003DB" Created="2006-11-04 19:33:03 +0200" Modified="2018-09-16 23:19:34 +0200" Type="Text">
                     <Title>The World of an Outsider</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
@@ -583,7 +583,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">55000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">7000</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2018-09-16 22:38:52 +0200"/>
+        <PreviousSession Words="0" Characters="0" Date="2018-09-16 22:48:00 +0200"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
